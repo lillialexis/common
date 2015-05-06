@@ -15,4 +15,3 @@
 #else
 #   define ULog(...)
 #endif
-#endif
