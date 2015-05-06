@@ -5,7 +5,7 @@
 NAME=$(git branch | grep '*' | sed 's/* //')
 DESCRIPTION=$(git config branch."$NAME".description)
 
-echo '['"$NAME"'] '$(cat "$1") > "$1"
+echo "$NAME"': '$(cat "$1") > "$1"
 if [ -n "$DESCRIPTION" ]
 then
    echo "" >> "$1"
