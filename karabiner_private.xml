@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Disable Command+H from hiding applications by sending Option+H</name>
+        <identifier>private.command_h_to_option_h_no_hide</identifier>
+        <autogen>
+            __KeyToKey__
+              KeyCode::H, VK_COMMAND | ModifierFlag::NONE,
+              KeyCode::H, VK_OPTION
+        </autogen>
+    </item>
+    <item>
+        <name>Allow right Control_R [→ →] key to move spaces</name>
+        <identifier>private.control_r_arrow_arrow_to_move_spaces</identifier>
+        <autogen>__DoublePressModifier__ KeyCode::SHIFT_R, KeyCode::SHIFT_R, KeyCode::VK_STICKY_CONTROL_L</autogen>
+    </item>
+    <item>
+        <name>F16 to CTRL F16</name>
+        <identifier>private.swap_space_and_tab</identifier>
+        <autogen>__KeyToKey__ KeyCode::F16, KeyCode::F16, ModifierFlag::COMMAND_L</autogen>
+    </item>
+</root>
