@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1280.774" x="327" y="216" />
+    <location key="RollbackChangesDialog.0.22.1920.1054" x="638" y="294" />
+    <location key="GridCell.Tab.0.center.0.22.1920.1054" x="367" y="625" />
+    <location key="#xdebugger.XInspectDialog.0.22.1280.774" x="495" y="199" />
+    <location key="findTextDialog.0.22.1280.774" x="433" y="173" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="211" />
+    <location key="GridCell.Tab.0.bottom.0.22.1920.1054" x="1204" y="572" />
+    <location key="OptionsEditor.0.22.1280.774" x="28" y="22" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1920.1054" x="658" y="356" />
+    <location key="VCS.ChangeListViewerDialog.0.22.1280.774" x="428" y="129" />
+    <location key="refactoring.ChangeSignatureDialog.0.22.1440.874" x="722" y="98" />
+    <location key="projectSettings.0.0.1920.1080" x="448" y="211" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="652" y="295" />
+    <location key="RegExHelpPopup" x="488" y="318" />
+    <location key="findTextDialog.0.0.1920.1080" x="754" y="302" />
+    <location key="#xdebugger.XInspectDialog.0.22.1920.1054" x="800" y="339" />
+    <location key="ActivateTaskDialog.0.22.1920.1054" x="735" y="473" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1440.900" x="558" y="75" />
+    <location key="git4idea.rebase.GitRebaseEditor.0.0.1920.1080" x="658" y="292" />
+    <location key="#xdebugger.XInspectDialog.0.22.1920.1058" x="805" y="341" />
+    <location key="replaceTextDialog.0.22.1920.1054" x="752" y="309" />
+    <location key="#xdebugger.evaluate.0.22.1440.874" x="546" y="208" />
+    <location key="#xdebugger.XInspectDialog.0.22.1440.874" x="541" y="248" />
+    <location key="OptionsEditor.0.0.1920.1080" x="61" y="22" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="591" y="27" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.22.1280.774" x="508" y="286" />
+    <location key="scopes.0.22.1920.1054" x="551" y="211" />
+    <location key="DiffWindow.0.22.1280.774" x="100" y="122" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="751" y="274" />
+    <location key="VCS.ChangeListViewerDialog.0.22.1920.1054" x="660" y="269" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="798" y="165" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="748" y="298" />
+    <location key="findTextDialog.0.22.1920.1054" x="667" y="332" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="747" y="284" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1280.774" x="0" y="22" />
+    <location key="com.intellij.openapi.diff.impl.patch.SelectFilesToAddTextsToPatchDialog.0.22.1440.874" x="507" y="197" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1440.874" x="558" y="91" />
+    <location key="FileChooserDialogImpl.0.22.1440.874" x="508" y="191" />
+    <location key="#ApiTester_-_Debug.0.22.1920.1054" x="764" y="243" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.22.1920.1054" x="264" y="93" />
+    <location key="#Inspections.0.22.1920.1054" x="577" y="244" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="729" y="335" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" x="0" y="22" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="0" y="22" />
+    <location key="git4idea.vfs.GitFixRootsDialog.0.22.1440.874" x="466" y="342" />
+    <location key="#xdebugger.XInspectDialog.0.0.1920.1080" x="869" y="324" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="668" y="274" />
+    <location key="git4idea.vfs.GitFixRootsDialog.0.22.1280.774" x="386" y="292" />
+    <location key="#xdebugger.evaluate.0.22.1920.1054" x="786" y="298" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1920.1054" x="552" y="211" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1920.1080" x="441" y="310" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1920.1054" x="0" y="22" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1440.874" x="308" y="121" />
+    <location key="OptionsEditor.0.22.1920.1058" x="260" y="170" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="300" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1920.1054" x="760" y="276" />
+    <location key="OptionsEditor.0.22.1920.1054" x="352" y="127" />
+    <location key="findTextDialog.0.22.1440.874" x="454" y="156" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1920.1054" x="798" y="181" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.22.1920.1054" x="652" y="261" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1080" x="753" y="390" />
+    <location key="DiffWindow.0.0.1920.1080" x="0" y="22" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog" x="0" y="22" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.22.1920.1054" x="310" y="404" />
+    <location key="IdeErrosDialog.0.22.1280.774" x="331" y="96" />
+    <location key="DiffWindow.0.22.1440.874" x="100" y="122" />
+    <location key="IdeErrosDialog.0.22.1920.1058" x="651" y="238" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.22.1280.774" x="328" y="121" />
+    <location key="git4idea.vfs.GitFixRootsDialog.0.22.1920.1054" x="706" y="432" />
+    <location key="IdeErrosDialog.0.22.1920.1054" x="569" y="348" />
+    <location key="FileChooserDialogImpl.0.22.1280.774" x="405" y="141" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.774" x="228" y="71" />
+    <location key="GridCell.Tab.0.right.0.22.1920.1054" x="473" y="623" />
+    <location key="DiffWindow.0.22.1920.1054" x="100" y="122" />
+    <location key="OptionsEditor.0.22.1440.874" x="108" y="37" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="610" y="261" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.774" x="377" y="163" />
+    <location key="refactoring.ChangeSignatureDialog.0.22.1920.1054" x="1101" y="235" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1440.874" x="749" y="182" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1440.874" x="0" y="22" />
+    <location key="DiffWindow" x="100" y="122" />
+    <location key="findTextDialog.0.0.1440.900" x="514" y="212" />
+    <location key="CommitChangelistDialog.0.22.1920.1054" x="610" y="273" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1920.1058" x="777" y="286" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.22.1920.1054" x="100" y="122" />
+    <location key="refactoring.ChangeSignatureDialog.0.22.1280.774" x="402" y="60" />
+    <location key="#QuickSignIn_-_Debug_iPad_Device.0.22.1920.1054" x="764" y="259" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="466" y="268" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1280.774" x="394" y="41" />
+    <location key="GridCell.Tab.2.center.0.22.1280.774" x="54" y="527" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="847" y="331" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1920.1054" x="753" y="272" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="724" y="447" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="613" y="474" />
+    <location key="#Code_Folding.0.0.1920.1080" x="819" y="273" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="509" y="170" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1440.900" x="430" y="99" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1440.900" x="0" y="23" />
+    <location key="WELCOME_SCREEN.-1440.246.1440.900" x="960" y="527" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="121" />
+    <location key="replaceTextDialog.0.0.1440.900" x="511" y="184" />
+    <location key="#Project_Structure.0.0.1920.1080" x="436" y="127" />
+    <location key="AndroidExtendedDeviceChooserDialog.0.0.1920.1080" x="723" y="343" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="698" y="311" />
+    <location key="#app.0.0.1920.1080" x="688" y="141" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="577" y="206" />
+    <location key="ScreenshotViewer.Dimensions.0.0.1920.1080" x="0" y="22" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="722" y="260" />
+    <location key="#Inspections.0.0.1920.1080" x="573" y="236" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="771" y="434" />
+    <location key="#MainActivity.0.0.1920.1080" x="688" y="141" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="697" y="337" />
+    <location key="AndroidExtendedDeviceChooserDialog.0.0.1440.900" x="413" y="253" />
+    <location key="#app.0.0.1440.900" x="448" y="51" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="508" y="194" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1440.900" x="458" y="221" />
+    <location key="AndroidProcessChooserDialog.0.0.1920.1080" x="823" y="339" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080" x="548" y="211" />
+    <location key="AndroidExtendedDeviceChooserDialog.1920.519.1440.900" x="2350" y="774" />
+    <location key="new project wizard.0.0.1920.1080" x="570" y="148" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="574" y="358" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="744" y="391" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1061" y="478" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="300" />
+    <location key="#Project_Structure.0.0.2560.1440" x="756" y="307" />
+    <location key="#bluetooth-spp-terminal.0.0.2560.1440" x="1008" y="321" />
+    <location key="AndroidExtendedDeviceChooserDialog.0.0.2560.1440" x="973" y="523" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2560.1440" x="1091" y="614" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="1672" y="750" />
+    <location key="new project wizard.0.0.2560.1440" x="913" y="471" />
+    <location key="IdeErrosDialog.0.0.2560.1440" x="869" y="549" />
+    <location key="findTextDialog.0.0.2560.1440" x="1074" y="468" />
+    <location key="NewModule_or_Project.wizard.0.0.2560.1440" x="1018" y="486" />
+    <location key="OptionsEditor.0.0.2560.1440" x="346" y="23" />
+    <location key="#com.mobilejohnny.bluetoothsppwidget_in_app.0.0.2560.1440" x="1011" y="374" />
+    <location key="com.android.tools.idea.structure.MavenDependencyLookupDialog.0.0.2560.1440" x="979" y="596" />
+    <location key="#app.0.0.2560.1440" x="1008" y="321" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2560.1440" x="1017" y="527" />
+    <location key="DiffWindow.0.0.1440.900" x="100" y="122" />
+    <location key="NewModule_or_Project.wizard.0.0.1440.900" x="457" y="157" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1440.900" x="457" y="258" />
+    <location key="GitCloneDialog.0.0.1440.900" x="518" y="374" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="1075" y="748" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="353" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.2560.1440" x="868" y="391" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" x="0" y="22" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="466" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.2560.1440" x="988" y="475" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="1042" y="440" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1440.900" x="308" y="121" />
+    <location key="OptionsEditor.0.0.1440.900" x="108" y="37" />
+    <location key="edit.logcat.filter.dialog.dimensions.0.0.1440.900" x="443" y="307" />
+    <location key="CommitChangelistDialog2.0.0.1440.900" x="370" y="171" />
+    <location key="git4idea.push.GitPushDialog.0.0.1440.900" x="362" y="183" />
+    <location key="AndroidCreateResourceFileDialog.0.0.2560.1440" x="868" y="491" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2560.1440" x="1018" y="491" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.2560.1440" x="1018" y="483" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" x="0" y="22" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" x="0" y="22" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1440.900" x="447" y="335" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1440.900" x="482" y="170" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1440.900" x="421" y="125" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.2560.1440" x="832" y="489" />
+    <location key="replaceTextDialog.0.0.2560.1440" x="1071" y="440" />
+    <location key="OptionsEditor.-281.-1440.2560.1440" x="363" y="-1221" />
+    <location key="#Project_Structure.0.0.1440.900" x="196" y="38" />
+    <location key="#Inspections.0.0.2560.1440" x="893" y="417" />
+    <location key="DiffWindow.0.0.2560.1440" x="100" y="123" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.2560.1440" x="868" y="492" />
+    <location key="chooseDestDirectoryDialog.0.0.2560.1440" x="1059" y="516" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" x="997" y="606" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="1042" y="357" />
+    <size key="GridCell.Tab.0.center.0.22.1280.742" width="1257" height="284" />
+    <size key="GridCell.Tab.2.center.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.0.bottom" width="1417" height="225" />
+    <size key="GridCell.Tab.1.center.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.0.center.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.2.right" width="1417" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1878" height="481" />
+    <size key="NewXcodeProjectWizard.0.0.1920.1080" width="600" height="400" />
+    <size key="GridCell.Tab.0.bottom.0.22.1920.1054" width="1897" height="284" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup" width="300" height="300" />
+    <size key="GridCell.Tab.0.center" width="1417" height="225" />
+    <size key="GridCell.Tab.2.bottom.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1878" height="481" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1878" height="481" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1878" height="481" />
+    <size key="RegExHelpPopup" width="600" height="319" />
+    <size key="GridCell.Tab.2.left" width="1417" height="225" />
+    <size key="#xdebugger.XInspectDialog.0.22.1920.1054" width="781" height="692" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1878" height="350" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1878" height="481" />
+    <size key="NewXcodeProjectWizard.0.22.1280.742" width="600" height="400" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1752" height="986" />
+    <size key="#xdebugger.evaluate.0.0.1920.1080" width="1116" height="601" />
+    <size key="GridCell.Tab.1.bottom.0.22.1440.874" width="1417" height="225" />
+    <size key="DiffWindow.0.22.1280.774" width="1157" height="674" />
+    <size key="NewXcodeProjectWizard.0.22.1440.874" width="600" height="400" />
+    <size key="GridCell.Tab.1.center.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.1.bottom.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.0.right" width="1417" height="225" />
+    <size key="findTextDialog.0.22.1920.1054" width="415" height="511" />
+    <size key="GridCell.Tab.1.right.0.22.1920.1054" width="1897" height="284" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1280.774" width="1280" height="774" />
+    <size key="GridCell.Tab.0.left" width="1417" height="225" />
+    <size key="GridCell.Tab.1.bottom" width="1417" height="225" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1878" height="481" />
+    <size key="GridCell.Tab.1.right" width="1417" height="225" />
+    <size key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.22.1920.1054" width="1426" height="860" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1878" height="350" />
+    <size key="GridCell.Tab.2.center.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.1.left.0.22.1440.874" width="1417" height="225" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" width="1920" height="1054" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1920" height="1054" />
+    <size key="GridCell.Tab.0.center.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.0.left.0.22.1280.742" width="1257" height="284" />
+    <size key="#xdebugger.XInspectDialog.0.0.1920.1080" width="642" height="613" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1878" height="350" />
+    <size key="NewXcodeProjectWizard.0.22.1280.774" width="600" height="400" />
+    <size key="GridCell.Tab.0.left.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1878" height="350" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="481" />
+    <size key="#xdebugger.evaluate.0.22.1920.1054" width="707" height="634" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1920.1054" width="1920" height="1054" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.2.bottom" width="1417" height="225" />
+    <size key="GridCell.Tab.2.right.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.2.bottom.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.1.right.0.22.1440.874" width="1417" height="225" />
+    <size key="GridCell.Tab.0.right.0.22.1280.742" width="1257" height="284" />
+    <size key="javadoc.popup.0.22.1920.1054" width="500" height="123" />
+    <size key="DiffWindow.0.0.1920.1080" width="1920" height="1054" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog" width="1920" height="1054" />
+    <size key="DiffWindow.0.22.1440.874" width="1240" height="674" />
+    <size key="DebuggerActiveHint.0.22.1920.1054" width="507" height="429" />
+    <size key="GridCell.Tab.1.left" width="1417" height="225" />
+    <size key="XDebugger.FullValuePopup.0.22.1920.1054" width="1198" height="650" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1878" height="481" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1920.1080" width="463" height="420" />
+    <size key="GridCell.Tab.2.center" width="1417" height="225" />
+    <size key="GridCell.Tab.1.left.0.22.1920.1054" width="1897" height="284" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="1336" height="527" />
+    <size key="GridCell.Tab.0.right.0.22.1920.1054" width="1897" height="284" />
+    <size key="DiffWindow.0.22.1920.1054" width="1720" height="854" />
+    <size key="XDebugger.FullValuePopup.0.22.1280.774" width="640" height="387" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1398" height="225" />
+    <size key="NewXcodeProjectWizard" width="600" height="400" />
+    <size key="GridCell.Tab.2.left.0.22.1440.874" width="1417" height="225" />
+    <size key="refactoring.ChangeSignatureDialog.0.22.1920.1054" width="526" height="723" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1440.874" width="1440" height="874" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1398" height="225" />
+    <size key="DiffWindow" width="1720" height="854" />
+    <size key="GridCell.Tab.0.left.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.0.right.0.22.1440.874" width="1417" height="225" />
+    <size key="NewXcodeProjectWizard.0.22.1920.1054" width="600" height="400" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.22.1920.1054" width="1720" height="854" />
+    <size key="GridCell.Tab.2.right.0.22.1440.874" width="1417" height="225" />
+    <size key="javadoc.popup.0.0.1920.1080" width="1091" height="454" />
+    <size key="GridCell.Tab.2.center.0.22.1280.774" width="1224" height="221" />
+    <size key="GridCell.Tab.2.left.0.22.1920.1054" width="1897" height="284" />
+    <size key="GridCell.Tab.1.center" width="1417" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.22.1280.742" width="1257" height="284" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1440.900" width="1200" height="873" />
+    <size key="GridCell.Tab.0.left.1920.0.1440.900" width="1419" height="225" />
+    <size key="GridCell.Tab.0.center.1920.0.1440.900" width="1419" height="225" />
+    <size key="GridCell.Tab.0.right.1920.0.1440.900" width="1419" height="225" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1440.900" width="1419" height="225" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1158" height="225" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1158" height="225" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1158" height="225" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1158" height="225" />
+    <size key="GridCell.Tab.2.left.0.0.1440.900" width="1398" height="277" />
+    <size key="GridCell.Tab.2.center.0.0.1440.900" width="1398" height="277" />
+    <size key="GridCell.Tab.2.right.0.0.1440.900" width="1398" height="277" />
+    <size key="GridCell.Tab.2.bottom.0.0.1440.900" width="1398" height="277" />
+    <size key="AndroidExtendedDeviceChooserDialog.0.0.1920.1080" width="1007" height="599" />
+    <size key="ScreenshotViewer.Dimensions.0.0.1920.1080" width="800" height="1054" />
+    <size key="AndroidProcessChooserDialog.0.0.1920.1080" width="570" height="424" />
+    <size key="GridCell.Tab.0.left.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.0.center.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.0.right.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.0.bottom.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.1.left.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.1.center.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.1.right.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.1.bottom.1920.519.1440.900" width="1398" height="383" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="443" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="443" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="443" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="443" />
+    <size key="ProcessPopupWindow.0.0.2560.1440" width="485" height="416" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="494" />
+    <size key="DiffWindow.0.0.1440.900" width="1240" height="674" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="330" height="104" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" width="1440" height="874" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="2560" height="1414" />
+    <size key="OptionsEditor.0.0.2560.1440" width="1911" height="1266" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" width="2560" height="1414" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1440.900" width="546" height="252" />
+    <size key="DebuggerActiveHint.0.0.1440.900" width="762" height="662" />
+    <size key="DiffWindow.0.0.2560.1440" width="2360" height="1213" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="566" height="252" />
+    <size key="DebuggerActiveHint.0.0.2560.1440" width="1042" height="625" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="187" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="6" />
+    <extendedState key="projectSettings.0" state="150" />
+    <extendedState key="projectSettings.1" state="400" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileStructure.narrowDown" value="false" />
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="NewXcodeProject.Right" value="SpriteKit Game" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="lastNotifiedMaintenanceExpiring" value="1353968261542" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="NewXcodeFile.Left" value="iOS.Cocoa Touch" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="evlsprt.1" value="133c2f74a2b" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="NewXcodeFile.Right" value="Objective-C class" />
+    <property name="installation.uid" value="33940a7b-62ea-4885-9a22-485d83a16f5e" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="export.settings.path" value="$USER_HOME$/Library/Preferences/appCode10/settings.jar" />
+    <property name="file.colors.enable.tests" value="e7fadb" />
+    <property name="NewXcodeProject.Left" value="iOS.Application" />
+    <property name="evlsprt3.1" value="15" />
+    <property name="evlsprt3.2" value="15" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="Tests" value="Green" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Android/HVACDemo&#10;/Users/lilli&#10;/Users/lilli/Downloads/DragNDrop&#10;/Users/lilli/Android&#10;/Users/lilli/Downloads/DragNDropList-master&#10;/Users/lilli/Android/Bluetooth/hzjerry_BluetoothSppPro&#10;/Users/lilli/Android/Bluetooth/BluetoothSppPro&#10;/Users/lilli/Downloads/BluetoothSppPro-master&#10;/Users/lilli/Downloads/BluetoothSPPWidget-master&#10;/Users/lilli/Android/bluetooth-spp-terminal&#10;/Users/lilli/iPhone/oncam-mobile-development/android&#10;/Users/lilli/Downloads/ToznyEasterEgg&#10;/Users/lilli/Downloads/AndroidTabLayout&#10;/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home&#10;/Users/lilli/iPhone/three-ring&#10;/Users/lilli/iPhone/circles/Circles&#10;/Users/lilli/iPhone/circles/Circles/Circles" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="NewXcodeProjectBasePath" value="$USER_HOME$/iPhone" />
+    <property name="evlsprt2.1" value="1337b055d23" />
+    <property name="Xcode.removeFromProjectRef" value="true" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="evlsprt2.5" value="144469704d3" />
+    <property name="evlsprt.5" value="144850f5cce" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="runConfigurationTab.dividerProportion" value="200.0" />
+    <property name="evlsprt.6" value="1307859a980" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="evlsprt3.6" value="19" />
+    <property name="evlsprt3.5" value="13" />
+    <property name="evlsprt2.6" value="130194bdac8" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="color.picker.is.hsb" value="false" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/iPhone/engage.iphone/QuickPublish/Classes" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="AppCode.initialConfigurationShown" value="true" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="ColorChooser.RecentColors" value="147-255-242-255,,,142-255-193-255,,,128-255-139-255,,,190-121-216-255,,,254-226-24-255,,,155-159-221-255,,,156-109-254-255,,,156-61-240-255,,,189-107-255-255,,,83-204-253-255,,,197-27-235-255,,,0-145-145-255,,,168-0-0-255,,,236-70-114-255,,,254-23-157-255,,,173-173-173-255,,,39-146-255-255,,,255-249-97-255,,,0-204-204-255,,,0-176-184-255" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="android.logcat.filter.apply.if.client.selection.changes" value="false" />
+    <property name="KEYMAP" value="extend" />
+    <property name="SAVED_COMPANY_DOMAIN" value="jaguarlandrover.com" />
+    <property name="MobileminApi" value="15" />
+    <property name="TVminApi" value="21" />
+    <property name="WearminApi" value="20" />
+    <property name="ANDROID_DEBUG_SELECTED_TAB_AndroidRunConfigurationType" value="Console" />
+    <property name="last.imported.location" value="$USER_HOME$/Android/HVACDemo" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Application Module" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="android.resource_dialog_splitter" value="0.8" />
+    <property name="LOG_FILTER_HISTORY" value="websoc&#10;renderlayer&#10;renderbox&#10;wavespec&#10;util" />
+    <property name="filter_non_existing" value="false" />
+  </component>
+</application>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="Android 1.6 Platform">
+      <CLASSES>
+        <root url="jar:///Android/android-sdk-mac_x86/platforms/android-4/android.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Android 2.1 Platform">
+      <CLASSES>
+        <root url="jar:///Android/android-sdk-mac_x86/platforms/android-7/android.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
+

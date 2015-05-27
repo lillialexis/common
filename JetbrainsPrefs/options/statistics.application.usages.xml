@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="UI File Format">
+      <project id="ThreeRing" values="Storyboard iPhone (3.0),Storyboard iPad (3.0)" />
+      <project id="TabBarTest" values="Storyboard iPhone (3.0)" />
+      <project id="Prive" values="Modern Xib iPhone (3.0)" />
+      <project id="SnappySprites" values="Storyboard iPhone (3.0),Storyboard iPad (3.0)" />
+      <project id="KickballClicker" values="Storyboard iPhone (3.0)" />
+      <project id="GameTime" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
+      <project id="DINAN" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
+      <project id="project" values="Modern Xib iPhone (3.0),Storyboard iPhone (3.0)" />
+      <project id="DoubleDots" values="Storyboard iPad (3.0),Storyboard iPhone (3.0)" />
+      <project id="TIOADExample" values="Storyboard iPhone (2.0),Storyboard iPad (2.0)" />
+      <project id="SpriteKitSimpleGame" values="Storyboard iPhone (3.0)" />
+      <project id="TicketTracker" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
+      <project id="TwosBasic" values="Storyboard iPad (3.0),Storyboard iPhone (3.0)" />
+      <project id="BlueRC" values="Storyboard iPhone (2.0)" />
+      <project id="GenericKeychain" values="Xib iPhone (7.03)" />
+    </group>
+    <group name="language-level">
+      <project id="android" values="JDK_1_6" />
+      <project id="BluetoothSppPro" values="JDK_1_6" />
+      <project id="HVACDemo" values="JDK_1_7" />
+      <project id="ToznyEasterEgg" values="JDK_1_6" />
+      <project id="BluetoothSppPro-master" values="JDK_1_6" />
+      <project id="HelloWorld2" values="JDK_1_6" />
+      <project id="BluetoothSPPWidget-master" values="JDK_1_6" />
+      <project id="HelloWorld" values="JDK_1_7" />
+      <project id="rvi_hvac_android" values="JDK_1_7" />
+      <project id="DragAndDropExample" values="JDK_1_7" />
+      <project id="DragNDrop" values="JDK_1_7" />
+      <project id="hzjerry_BluetoothSppPro" values="JDK_1_6" />
+      <project id="Bluetooth-spp-terminal" values="JDK_1_7" />
+      <project id="Fragments" values="JDK_1_7" />
+      <project id="DragNDropList-master" values="JDK_1_7" />
+      <project id="AndroidTabLayout" values="JDK_1_6" />
+      <project id="EasterEgg" values="JDK_1_6" />
+      <project id="TicketTracker" values="JDK_1_6" />
+      <project id="bluetooth-spp-terminal" values="JDK_1_6" />
+      <project id="RunSomeJava" values="JDK_1_6" />
+      <project id="Drawing" values="JDK_1_7" />
+    </group>
+    <group name="vcs">
+      <project id="cc+engage" values="Git" />
+      <project id="CaptureApidInterfaceTests" values="Git" />
+      <project id="Circles" values="Git" />
+      <project id="MobileRoadie" values="Git" />
+      <project id="QuickSignIn" values="Git" />
+      <project id="PhoneGapSample" values="Git" />
+      <project id="SnappySprites" values="Git" />
+      <project id="QuickPublish" values="Git" />
+      <project id="hzjerry_BluetoothSppPro" values="Git" />
+      <project id="ApiTester" values="Git" />
+      <project id="Bluetooth-spp-terminal" values="Git" />
+      <project id="Cocos1" values="Git" />
+      <project id="TwosBasic" values="Git" />
+      <project id="TicketTracker" values="Git" />
+      <project id="HelloPhoneGap" values="Git" />
+      <project id="CaptureWebflowTest" values="Git" />
+      <project id="ThreeRing" values="Git" />
+      <project id="BluetoothSppPro" values="Git" />
+      <project id="HVACDemo" values="Git" />
+      <project id="TabBarTest" values="Git" />
+      <project id="LoLLoader" values="Git" />
+      <project id="CaptureInterfaceUnitTests" values="Git" />
+      <project id="KickballClicker" values="Git" />
+      <project id="DINAN" values="Git" />
+      <project id="SimpleCaptureDemo" values="Git" />
+      <project id="rvi_hvac_android" values="Git" />
+      <project id="StarshipDemonstration" values="Git" />
+      <project id="CordovaSample" values="Git" />
+      <project id="TrainingDemo" values="Git" />
+      <project id="CaptureApidUnitTests" values="Git" />
+      <project id="RILCapturePOC" values="Git" />
+      <project id="playhaven-sdk-ios" values="Git" />
+      <project id="PhonegapSample" values="Git" />
+      <project id="Drawing" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="android" values="java-gradle,android-gradle,android" />
+      <project id="BluetoothSppPro" values="java-gradle,android-gradle,android" />
+      <project id="HVACDemo" values="java-gradle,android,android-gradle" />
+      <project id="ToznyEasterEgg" values="java-gradle,android-gradle,android" />
+      <project id="HelloWorld2" values="android,java-gradle,android-gradle" />
+      <project id="BluetoothSppPro-master" values="java-gradle,android,android-gradle" />
+      <project id="BluetoothSPPWidget-master" values="android-gradle,android,java-gradle" />
+      <project id="HelloWorld" values="android-gradle,java-gradle,android" />
+      <project id="rvi_hvac_android" values="java-gradle,android,android-gradle" />
+      <project id="DragAndDropExample" values="java-gradle,android-gradle,android" />
+      <project id="DragNDrop" values="java-gradle,android,android-gradle" />
+      <project id="hzjerry_BluetoothSppPro" values="android,android-gradle,java-gradle" />
+      <project id="Bluetooth-spp-terminal" values="android-gradle,android,java-gradle" />
+      <project id="Fragments" values="android,android-gradle,java-gradle" />
+      <project id="DragNDropList-master" values="android,android-gradle" />
+      <project id="AndroidTabLayout" values="android" />
+      <project id="TicketTracker" values="java-gradle,android,android-gradle" />
+      <project id="EasterEgg" values="java-gradle,android-gradle,android" />
+      <project id="RunSomeJava" values="java-gradle,android-gradle,android" />
+      <project id="Drawing" values="java-gradle,android-gradle,android" />
+    </group>
+    <group name="Build Settings">
+      <project id="ThreeRing" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++" />
+      <project id="Circles" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION " />
+      <project id="TabBarTest" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="Prive" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="SnappySprites" values="GCC_VERSION ,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="KickballClicker" values="CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION " />
+      <project id="GameTime" values="CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="TalisSet" values="GCC_C_LANGUAGE_STANDARD c99,GCC_VERSION " />
+      <project id="DINAN" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++" />
+      <project id="project" values="CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="DoubleDots" values="GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="StarshipDemonstration" values="GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,GCC_VERSION " />
+      <project id="SensorTagEX" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="TIOADExample" values="CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION ,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="Video Blurring" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,GCC_VERSION com.apple.compilers.llvm.clang.1_0,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="SpriteKitSimpleGame" values="GCC_VERSION ,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="TwosBasic" values="GCC_VERSION ,CLANG_CXX_LIBRARY libc++,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_ENABLE_OBJC_ARC YES" />
+      <project id="TicketTracker" values="CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="BlueRC" values="GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LIBRARY libc++,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="GenericKeychain" values="GCC_VERSION ,GCC_C_LANGUAGE_STANDARD c99" />
+      <project id="Gymbo" values="CLANG_CXX_LIBRARY libc++,GCC_VERSION ,CLANG_ENABLE_OBJC_ARC YES,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="playhaven-sdk-ios" values="GCC_VERSION com.apple.compilers.llvm.clang.1_0,GCC_C_LANGUAGE_STANDARD c99,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99" />
+      <project id="UIImageEffects" values="CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99" />
+    </group>
+    <group name="SDK">
+      <project id="Circles" values="iOS 7.0" />
+      <project id="PlayHavenChallenge" values="iOS 6.0" />
+      <project id="Prive" values="iOS 8.1" />
+      <project id="SnappySprites" values="iOS 7.1" />
+      <project id="GameTime" values="iOS 8.0" />
+      <project id="TIOADExample" values="iOS 8.0" />
+      <project id="Video Blurring" values="iOS 7.1" />
+      <project id="TicketTracker" values="iOS 8.1" />
+      <project id="TwosBasic" values="iOS 7.1" />
+      <project id="BlueRC" values="iOS 8.0" />
+      <project id="GenericKeychain" values="iOS 8.0" />
+      <project id="UIImageEffects" values="iOS 7.1" />
+      <project id="ThreeRing" values="iOS 7.1" />
+      <project id="TabBarTest" values="iOS 7.1" />
+      <project id="LoLLoader" values="iOS 6.0" />
+      <project id="KickballClicker" values="iOS 8.0" />
+      <project id="TalisSet" values="iOS 7.0" />
+      <project id="DINAN" values="iOS 8.1" />
+      <project id="DoubleDots" values="iOS 8.1" />
+      <project id="project" values="iOS 8.0" />
+      <project id="StarshipDemonstration" values="iOS 7.0" />
+      <project id="SensorTagEX" values="iOS 8.0" />
+      <project id="SpriteKitSimpleGame" values="iOS 8.0" />
+      <project id="Gymbo" values="iOS 7.1" />
+      <project id="playhaven-sdk-ios" values="iOS 7.1" />
+    </group>
+    <group name="Testing Frameworks">
+      <project id="DoubleDots" values="XCTest" />
+      <project id="TwosBasic" values="XCTest" />
+      <project id="SnappySprites" values="XCTest" />
+      <project id="KickballClicker" values="XCTest=4" />
+      <project id="Gymbo" values="XCTest" />
+      <project id="playhaven-sdk-ios" values="OCUnit=4" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="cc+engage" values="AppleRunConfiguration" />
+      <project id="CaptureApidInterfaceTests" values="AppleRunConfiguration" />
+      <project id="android" values="AndroidRunConfigurationType" />
+      <project id="Circles" values="AppleRunConfiguration" />
+      <project id="PlayHavenChallenge" values="AppleRunConfiguration" />
+      <project id="Prive" values="AppleRunConfiguration" />
+      <project id="HelloWorld2" values="AndroidRunConfigurationType" />
+      <project id="BluetoothSppPro-master" values="AndroidRunConfigurationType" />
+      <project id="SnappySprites" values="OCUnitRunConfiguration" />
+      <project id="BluetoothSPPWidget-master" values="AndroidRunConfigurationType" />
+      <project id="HelloWorld" values="AndroidRunConfigurationType" />
+      <project id="QuickPublish" values="AppleRunConfiguration" />
+      <project id="hzjerry_BluetoothSppPro" values="AndroidRunConfigurationType" />
+      <project id="DragNDrop" values="AndroidRunConfigurationType" />
+      <project id="Video Blurring" values="AppleRunConfiguration" />
+      <project id="Bluetooth-spp-terminal" values="AndroidRunConfigurationType" />
+      <project id="AndroidTabLayout" values="AndroidRunConfigurationType" />
+      <project id="TicketTracker" values="AndroidRunConfigurationType" />
+      <project id="TwosBasic" values="OCUnitRunConfiguration" />
+      <project id="EasterEgg" values="AndroidRunConfigurationType" />
+      <project id="GenericKeychain" values="AppleRunConfiguration" />
+      <project id="RunSomeJava" values="AndroidRunConfigurationType" />
+      <project id="UIImageEffects" values="AppleRunConfiguration" />
+      <project id="ThreeRing" values="AppleRunConfiguration" />
+      <project id="BluetoothSppPro" values="AndroidRunConfigurationType" />
+      <project id="TabBarTest" values="AppleRunConfiguration" />
+      <project id="HVACDemo" values="AndroidRunConfigurationType" />
+      <project id="ToznyEasterEgg" values="AndroidRunConfigurationType" />
+      <project id="LoLLoader" values="AppleRunConfiguration" />
+      <project id="KickballClicker" values="AppleRunConfiguration,OCUnitRunConfiguration" />
+      <project id="CaptureInterfaceUnitTests" values="AppleRunConfiguration" />
+      <project id="TalisSet" values="AppleRunConfiguration" />
+      <project id="SimpleCaptureDemo" values="AppleRunConfiguration" />
+      <project id="project" values="AppleRunConfiguration" />
+      <project id="DoubleDots" values="OCUnitRunConfiguration" />
+      <project id="rvi_hvac_android" values="AndroidRunConfigurationType" />
+      <project id="StarshipDemonstration" values="AppleRunConfiguration" />
+      <project id="DragAndDropExample" values="AndroidRunConfigurationType" />
+      <project id="CordovaSample" values="AppleRunConfiguration" />
+      <project id="Fragments" values="AndroidRunConfigurationType" />
+      <project id="RILCapturePOC" values="AppleRunConfiguration" />
+      <project id="Gymbo" values="OCUnitRunConfiguration" />
+      <project id="playhaven-sdk-ios" values="AppleRunConfiguration" />
+      <project id="PhonegapSample" values="AppleRunConfiguration" />
+      <project id="Drawing" values="AndroidRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="cc+engage" values="CIDR_MODULE" />
+      <project id="CaptureApidInterfaceTests" values="CIDR_MODULE" />
+      <project id="MobileRoadie" values="CIDR_MODULE" />
+      <project id="QuickSignIn" values="CIDR_MODULE" />
+      <project id="HelloWorld2" values="JAVA_MODULE" />
+      <project id="SnappySprites" values="CIDR_MODULE" />
+      <project id="BluetoothSPPWidget-master" values="JAVA_MODULE" />
+      <project id="GameTime" values="CIDR_MODULE" />
+      <project id="Demo-v0.1.01-staging" values="CIDR_MODULE" />
+      <project id="hzjerry_BluetoothSppPro" values="JAVA_MODULE" />
+      <project id="ApiTester" values="CIDR_MODULE" />
+      <project id="Bluetooth-spp-terminal" values="JAVA_MODULE" />
+      <project id="Cocos1" values="CIDR_MODULE" />
+      <project id="TwosBasic" values="CIDR_MODULE" />
+      <project id="GenericKeychain" values="CIDR_MODULE" />
+      <project id="RunSomeJava" values="JAVA_MODULE" />
+      <project id="HelloPhoneGap" values="CIDR_MODULE" />
+      <project id="UIImageEffects" values="CIDR_MODULE" />
+      <project id="CaptureWebflowTest" values="CIDR_MODULE" />
+      <project id="CandyFactory" values="CIDR_MODULE" />
+      <project id="ToznyEasterEgg" values="JAVA_MODULE" />
+      <project id="LoLLoader" values="CIDR_MODULE" />
+      <project id="CaptureInterfaceUnitTests" values="CIDR_MODULE" />
+      <project id="KickballClicker" values="CIDR_MODULE" />
+      <project id="SimpleCaptureDemo" values="CIDR_MODULE" />
+      <project id="DoubleDots" values="CIDR_MODULE" />
+      <project id="project" values="CIDR_MODULE" />
+      <project id="rvi_hvac_android" values="JAVA_MODULE" />
+      <project id="StarshipDemonstration" values="CIDR_MODULE" />
+      <project id="DragAndDropExample" values="JAVA_MODULE" />
+      <project id="SensorTagEX" values="CIDR_MODULE" />
+      <project id="CordovaSample" values="CIDR_MODULE" />
+      <project id="TrainingDemo" values="CIDR_MODULE" />
+      <project id="CaptureApidUnitTests" values="CIDR_MODULE" />
+      <project id="Fragments" values="JAVA_MODULE" />
+      <project id="RILCapturePOC" values="CIDR_MODULE" />
+      <project id="bluetooth-spp-terminal" values="JAVA_MODULE" />
+      <project id="playhaven-sdk-ios" values="CIDR_MODULE" />
+      <project id="Gymbo" values="CIDR_MODULE" />
+      <project id="Drawing" values="JAVA_MODULE" />
+      <project id="PhonegapSample" values="CIDR_MODULE" />
+      <project id="android" values="JAVA_MODULE" />
+      <project id="JREngage" values="CIDR_MODULE" />
+      <project id="Circles" values="CIDR_MODULE" />
+      <project id="PlayHavenChallenge" values="CIDR_MODULE" />
+      <project id="Prive" values="CIDR_MODULE" />
+      <project id="BluetoothSppPro-master" values="JAVA_MODULE" />
+      <project id="PhoneGapSample" values="CIDR_MODULE" />
+      <project id="HelloWorld" values="JAVA_MODULE" />
+      <project id="Demo-v0.1.02-staging" values="CIDR_MODULE" />
+      <project id="QuickPublish" values="CIDR_MODULE" />
+      <project id="TIOADExample" values="CIDR_MODULE" />
+      <project id="DragNDrop" values="JAVA_MODULE" />
+      <project id="Video Blurring" values="CIDR_MODULE" />
+      <project id="AndroidTabLayout" values="JAVA_MODULE" />
+      <project id="TicketTracker" values="JAVA_MODULE" />
+      <project id="EasterEgg" values="JAVA_MODULE" />
+      <project id="BlueRC" values="CIDR_MODULE" />
+      <project id="ThreeRing" values="CIDR_MODULE" />
+      <project id="BluetoothSppPro" values="JAVA_MODULE" />
+      <project id="Demo" values="CIDR_MODULE" />
+      <project id="TabBarTest" values="CIDR_MODULE" />
+      <project id="HVACDemo" values="JAVA_MODULE" />
+      <project id="TalisSet" values="CIDR_MODULE" />
+      <project id="DINAN" values="CIDR_MODULE" />
+      <project id="PhonegapCordovaSample" values="CIDR_MODULE" />
+      <project id="SpriteKitSimpleGame" values="CIDR_MODULE" />
+      <project id="DragNDropList-master" values="JAVA_MODULE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="CaptureApidInterfaceTests" values="AppleRunConfiguration" />
+      <project id="MobileRoadie" values="AppleRunConfiguration" />
+      <project id="ToznyEasterEgg" values="AndroidRunConfigurationType" />
+      <project id="SnappySprites" values="AppleRunConfiguration" />
+      <project id="KickballClicker" values="OCUnitRunConfiguration" />
+      <project id="CaptureInterfaceUnitTests" values="AppleRunConfiguration" />
+      <project id="GameTime" values="AppleRunConfiguration" />
+      <project id="TalisSet" values="AppleRunConfiguration" />
+      <project id="DINAN" values="AppleRunConfiguration" />
+      <project id="SimpleCaptureDemo" values="AppleRunConfiguration" />
+      <project id="DoubleDots" values="AppleRunConfiguration" />
+      <project id="SensorTagEX" values="AppleRunConfiguration" />
+      <project id="ApiTester" values="AppleRunConfiguration" />
+      <project id="TIOADExample" values="AppleRunConfiguration" />
+      <project id="Video Blurring" values="AppleRunConfiguration" />
+      <project id="CaptureApidUnitTests" values="AppleRunConfiguration" />
+      <project id="SpriteKitSimpleGame" values="AppleRunConfiguration" />
+      <project id="TwosBasic" values="AppleRunConfiguration" />
+      <project id="BlueRC" values="AppleRunConfiguration" />
+      <project id="RILCapturePOC" values="AppleRunConfiguration" />
+      <project id="Gymbo" values="AppleRunConfiguration" />
+      <project id="playhaven-sdk-ios" values="OCUnitRunConfiguration" />
+    </group>
+    <group name="file-type">
+      <project id="cc+engage" values="plist,ObjectiveC,UNKNOWN,XIB,Images,PLAIN_TEXT" />
+      <project id="QuickSignIn" values="Images,UNKNOWN,ObjectiveC,XIB,plist" />
+      <project id="HelloWorld2" values="ProGuard File,PLAIN_TEXT,JAVA,Properties,Groovy,ARCHIVE,XML,UNKNOWN,IDEA_MODULE,Images" />
+      <project id="SnappySprites" values="Images,Storyboard,UNKNOWN,Strings,plist,ObjectiveC,Asset Catalog Contents" />
+      <project id="BluetoothSPPWidget-master" values="Groovy,JAVA,PLAIN_TEXT,AIDL,ARCHIVE,UNKNOWN,Properties,Images,IDEA_MODULE,XML" />
+      <project id="GameTime" values="ObjectiveC,plist,Storyboard,UNKNOWN,Images,Asset Catalog Contents,XIB" />
+      <project id="Demo-v0.1.01-staging" values="plist,UNKNOWN,Images,ObjectiveC,XIB" />
+      <project id="hzjerry_BluetoothSppPro" values="ARCHIVE,Images,XML,PLAIN_TEXT,JAVA,Properties,IDEA_MODULE,UNKNOWN,Groovy" />
+      <project id="ApiTester" values="XIB,plist,ObjectiveC,UNKNOWN,Images" />
+      <project id="Bluetooth-spp-terminal" values="ARCHIVE,PLAIN_TEXT,JAVA,Properties,Images,UNKNOWN,IDEA_MODULE,XML,ProGuard File,Groovy" />
+      <project id="Cocos1" values="UNKNOWN,ObjectiveC,plist,Images" />
+      <project id="TwosBasic" values="Strings,Storyboard,ObjectiveC,Asset Catalog Contents,UNKNOWN,plist" />
+      <project id="GenericKeychain" values="Images,UNKNOWN,PLAIN_TEXT,XIB,ObjectiveC,plist,Strings" />
+      <project id="RunSomeJava" values="JAVA,UNKNOWN,XML,Groovy,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,Images,ProGuard File,Properties" />
+      <project id="UIImageEffects" values="Images,Storyboard,ObjectiveC,PLAIN_TEXT,plist,Strings,Asset Catalog Contents,UNKNOWN" />
+      <project id="HelloPhoneGap" values="Images,Strings,UNKNOWN,PLAIN_TEXT,ObjectiveC,plist" />
+      <project id="CaptureWebflowTest" values="plist,UNKNOWN,Storyboard,Strings,XIB,ObjectiveC" />
+      <project id="CandyFactory" values="UNKNOWN,plist,Images,ObjectiveC" />
+      <project id="ToznyEasterEgg" values="JAVA,Images,UNKNOWN,Groovy,XML,PLAIN_TEXT,IDEA_MODULE,Properties,AIDL,ARCHIVE" />
+      <project id="LoLLoader" values="plist,Strings,Images,XIB,UNKNOWN,ObjectiveC" />
+      <project id="KickballClicker" values="Strings,PLAIN_TEXT,Storyboard,ObjectiveC,JavaScript,Asset Catalog Contents,UNKNOWN,Native,Images,plist" />
+      <project id="SimpleCaptureDemo" values="ObjectiveC,Images,plist,XIB,Strings,Storyboard,UNKNOWN" />
+      <project id="project" values="plist,ObjectiveC,Storyboard,XIB,Asset Catalog Contents,UNKNOWN" />
+      <project id="DoubleDots" values="Asset Catalog Contents,Images,Strings,ObjectiveC,plist,UNKNOWN,Storyboard" />
+      <project id="rvi_hvac_android" values="PLAIN_TEXT,JAVA,Properties,UNKNOWN,ARCHIVE,Images,XML,Groovy,ProGuard File,AIDL" />
+      <project id="StarshipDemonstration" values="UNKNOWN,ARCHIVE,Storyboard,Strings,plist,Images,Asset Catalog Contents,ObjectiveC" />
+      <project id="DragAndDropExample" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,XML,JAVA,Groovy,Properties,AIDL,ProGuard File,Images" />
+      <project id="SensorTagEX" values="Strings,UNKNOWN,Images,plist,ObjectiveC" />
+      <project id="CordovaSample" values="Images,ObjectiveC,UNKNOWN,plist,PLAIN_TEXT,Strings,XIB" />
+      <project id="TrainingDemo" values="Strings,plist,ObjectiveC,XIB,PLAIN_TEXT,UNKNOWN,Images" />
+      <project id="Fragments" values="PLAIN_TEXT,JAVA,AIDL,ProGuard File,Images,UNKNOWN,Groovy,XML,Properties,IDEA_MODULE,ARCHIVE" />
+      <project id="RILCapturePOC" values="Images,XIB,UNKNOWN,plist,ObjectiveC,Strings,Storyboard" />
+      <project id="bluetooth-spp-terminal" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Groovy,Images,ProGuard File,XML,ARCHIVE,JAVA,CLASS" />
+      <project id="playhaven-sdk-ios" values="JSON,plist,Strings,XIB,ObjectiveC,HTML,UNKNOWN,Images,JavaScript" />
+      <project id="Gymbo" values="Asset Catalog Contents,Storyboard,Strings,UNKNOWN,plist,Images,ObjectiveC,XML" />
+      <project id="Drawing" values="ProGuard File,Properties,AIDL,XML,UNKNOWN,Groovy,PLAIN_TEXT,Images,JAVA,ARCHIVE,IDEA_MODULE" />
+      <project id="PhonegapSample" values="plist,XIB,Strings,Images,PLAIN_TEXT,ObjectiveC,UNKNOWN" />
+      <project id="android" values="IDEA_MODULE,AIDL,C++,Groovy,PLAIN_TEXT,ARCHIVE,Images,XML,Properties,JAVA,UNKNOWN,HTML" />
+      <project id="JREngage" values="plist,Images,XIB,UNKNOWN,ObjectiveC" />
+      <project id="Circles" values="Storyboard,plist,UNKNOWN,Asset Catalog Contents,ObjectiveC,Strings,Images" />
+      <project id="PlayHavenChallenge" values="plist,UNKNOWN,XIB,ObjectiveC,Images,Strings" />
+      <project id="Prive" values="Asset Catalog Contents,Strings,XIB,ObjectiveC,Images,JSON,UNKNOWN,plist" />
+      <project id="BluetoothSppPro-master" values="XML,Images,PLAIN_TEXT,Groovy,Properties,UNKNOWN,JAVA,ARCHIVE,IDEA_MODULE" />
+      <project id="PhoneGapSample" values="UNKNOWN,Images,XIB,PLAIN_TEXT,Strings,plist,ObjectiveC" />
+      <project id="HelloWorld" values="Groovy,PLAIN_TEXT,ARCHIVE,Images,UNKNOWN,XML,ProGuard File,Properties,IDEA_MODULE,JAVA,AIDL" />
+      <project id="QuickPublish" values="ObjectiveC,Images,XIB,UNKNOWN,plist,JSON" />
+      <project id="Demo-v0.1.02-staging" values="ObjectiveC,XIB,plist,UNKNOWN,Images" />
+      <project id="DragNDrop" values="IDEA_MODULE,ARCHIVE,Groovy,JAVA,Properties,UNKNOWN,XML,Images,PLAIN_TEXT" />
+      <project id="TIOADExample" values="Images,Strings,UNKNOWN,ObjectiveC,plist,Storyboard" />
+      <project id="Video Blurring" values="Asset Catalog Contents,Storyboard,Strings,ObjectiveC,plist,UNKNOWN,Images" />
+      <project id="AndroidTabLayout" values="Images,UNKNOWN,JAVA,XML,IDEA_MODULE" />
+      <project id="EasterEgg" values="XML,Images,IDEA_MODULE,ARCHIVE,ProGuard File,Groovy,JAVA,PLAIN_TEXT,UNKNOWN,Properties" />
+      <project id="TicketTracker" values="JAVA,AIDL,UNKNOWN,ARCHIVE,Groovy,Properties,IDEA_MODULE,Images,XML,PLAIN_TEXT,ProGuard File" />
+      <project id="BlueRC" values="UNKNOWN,plist,ObjectiveC,Storyboard,Strings,Images" />
+      <project id="ThreeRing" values="Images,Asset Catalog Contents,UNKNOWN,Storyboard,ObjectiveC,Strings,plist" />
+      <project id="BluetoothSppPro" values="Images,Properties,ARCHIVE,XML,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,JAVA" />
+      <project id="Demo" values="XIB,Images,plist,UNKNOWN,ObjectiveC" />
+      <project id="TabBarTest" values="Asset Catalog Contents,UNKNOWN,plist,ObjectiveC,Storyboard,Strings,Images" />
+      <project id="HVACDemo" values="UNKNOWN,ProGuard File,Images,JAVA,IDEA_MODULE,ARCHIVE,Properties,PLAIN_TEXT,AIDL,XML,Groovy" />
+      <project id="TalisSet" values="Images,UNKNOWN,plist,ObjectiveC,XIB" />
+      <project id="DINAN" values="Asset Catalog Contents,XIB,ObjectiveC,Strings,Images,Storyboard,JSON,UNKNOWN,plist" />
+      <project id="PhonegapCordovaSample" values="Images,ObjectiveC,XIB,plist,UNKNOWN,Strings,PLAIN_TEXT" />
+      <project id="SpriteKitSimpleGame" values="UNKNOWN,Strings,ObjectiveC,Storyboard,Images,plist,Asset Catalog Contents" />
+      <project id="DragNDropList-master" values="PLAIN_TEXT,UNKNOWN,JAVA,ProGuard File,Groovy,XML,IDEA_MODULE,Properties,ARCHIVE" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="CaptureApidInterfaceTests" values="DEFAULT" />
+      <project id="MobileRoadie" values="DEFAULT" />
+      <project id="Circles" values="DEFAULT" />
+      <project id="QuickSignIn" values="DEFAULT" />
+      <project id="PlayHavenChallenge" values="DEFAULT" />
+      <project id="Prive" values="DEFAULT" />
+      <project id="SnappySprites" values="DEFAULT" />
+      <project id="GameTime" values="DEFAULT" />
+      <project id="QuickPublish" values="DEFAULT" />
+      <project id="TIOADExample" values="DEFAULT" />
+      <project id="ApiTester" values="DEFAULT" />
+      <project id="Video Blurring" values="DEFAULT" />
+      <project id="TwosBasic" values="DEFAULT" />
+      <project id="TicketTracker" values="DEFAULT" />
+      <project id="BlueRC" values="DEFAULT" />
+      <project id="GenericKeychain" values="DEFAULT" />
+      <project id="UIImageEffects" values="DEFAULT" />
+      <project id="ThreeRing" values="DEFAULT" />
+      <project id="TabBarTest" values="DEFAULT" />
+      <project id="LoLLoader" values="DEFAULT" />
+      <project id="CaptureInterfaceUnitTests" values="DEFAULT" />
+      <project id="KickballClicker" values="DEFAULT" />
+      <project id="TalisSet" values="DEFAULT" />
+      <project id="DINAN" values="DEFAULT" />
+      <project id="SimpleCaptureDemo" values="DEFAULT" />
+      <project id="DoubleDots" values="DEFAULT" />
+      <project id="project" values="DEFAULT" />
+      <project id="StarshipDemonstration" values="DEFAULT" />
+      <project id="SensorTagEX" values="DEFAULT" />
+      <project id="CordovaSample" values="DEFAULT" />
+      <project id="CaptureApidUnitTests" values="DEFAULT" />
+      <project id="SpriteKitSimpleGame" values="DEFAULT" />
+      <project id="RILCapturePOC" values="DEFAULT" />
+      <project id="playhaven-sdk-ios" values="DEFAULT" />
+      <project id="Gymbo" values="DEFAULT" />
+      <project id="PhonegapSample" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Circles" values="Project,Project" />
+      <project id="PlayHavenChallenge" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="Prive" values="Project,Project" />
+      <project id="SnappySprites" values="Project,Project" />
+      <project id="GameTime" values="Project,Project" />
+      <project id="TIOADExample" values="Project,Project" />
+      <project id="Video Blurring" values="Project,Project" />
+      <project id="TicketTracker" values="Project,Project" />
+      <project id="TwosBasic" values="Project,Project" />
+      <project id="BlueRC" values="Project,Project" />
+      <project id="GenericKeychain" values="Project,Project" />
+      <project id="UIImageEffects" values="Project,Project" />
+      <project id="ThreeRing" values="Project,Project" />
+      <project id="TabBarTest" values="Project,Project" />
+      <project id="LoLLoader" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="KickballClicker" values="Project,Project" />
+      <project id="TalisSet" values="Project,Project" />
+      <project id="DINAN" values="Project,Project" />
+      <project id="DoubleDots" values="Project,Project" />
+      <project id="project" values="Project,Project" />
+      <project id="StarshipDemonstration" values="Project,Project" />
+      <project id="SensorTagEX" values="Project,Project" />
+      <project id="SpriteKitSimpleGame" values="Project,Project" />
+      <project id="Gymbo" values="Project,Project" />
+      <project id="playhaven-sdk-ios" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="designer.edit.component.Storyboard-iPhone-v3" count="3" />
+      <entry feature="designer.edit.connection.Storyboard-iPhone-v3" count="1" />
+      <entry feature="designer.edit.property.Modern-Xib-iPhone" count="1" />
+      <entry feature="designer.edit.property.Storyboard-iPhone-v3" count="4" />
+      <entry feature="designer.open.Modern-Xib-iPhone" count="4" />
+      <entry feature="designer.open.Storyboard-iPad-v3" count="1" />
+      <entry feature="designer.open.Storyboard-iPhone-v3" count="8" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="120" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="977" />
+      <entry feature="execute.AppleRunConfiguration.Debug" count="231" />
+      <entry feature="execute.AppleRunConfiguration.Instruments" count="1" />
+      <entry feature="execute.AppleRunConfiguration.Run" count="2591" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="3" />
+      <entry feature="execute.JUnit.Run" count="3" />
+      <entry feature="execute.OCUnitRunConfiguration.Debug" count="6" />
+      <entry feature="execute.OCUnitRunConfiguration.Run" count="23" />
+      <entry feature="execute.testingFramework.XCTest" count="241" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.C/C++/Objective-C" count="3" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Custom" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.External_Documentation" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="9" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Groovy" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.Java" count="6" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
+      <entry feature="ide.settings.Version_Control" count="4" />
+      <entry feature="ide.settings.XML" count="2" />
+      <entry feature="ideaapp.started" count="53" />
+    </counts>
+  </component>
+</application>
+

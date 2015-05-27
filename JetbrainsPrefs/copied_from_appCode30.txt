@@ -1,0 +1,8 @@
+appCode30/codestyles
+appCode30/colors
+appCode30/fileTemplates
+appCode30/filetypes
+appCode30/inspection
+appCode30/keymaps
+appCode30/options
+appCode30/templates
