@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="UsagesStatistic" time="1400003442501" allowed="true" show-notification="false" period="weekly">
+  <component name="UsagesStatistic" time="1433523928150" allowed="true" show-notification="false" period="weekly">
     <group id="Build Settings" priority="0.0" data="CLANG_CXX_LIBRARY libc++=7,GCC_VERSION=9,CLANG_CXX_LANGUAGE_STANDARD gnu++0x=7,CLANG_ENABLE_OBJC_ARC YES=7,GCC_C_LANGUAGE_STANDARD c99=2,GCC_C_LANGUAGE_STANDARD gnu99=8,GCC_VERSION com.apple.compilers.llvm.clang.1_0=2" />
     <group id="Debugger" priority="0.0" data="LLDB=1" />
     <group id="JavaScript versions" priority="0.0" data="DEFAULT=22" />
-    <group id="Look and Feel" priority="0.0" data="Mac OS X - Mac OS X=0,Mac OS X - Default=1" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
     <group id="SDK" priority="0.0" data="iOS 6.0=2,iOS 7.0=4,iOS 7.1=5" />
     <group id="Testing Frameworks" priority="0.0" data="OCUnit=1,XCTest=2" />
-    <group id="UI Features" priority="0.0" data="Status bar visible=1,Tabs Top=1,Tool Window buttons visible=0,Recent Files   15=1,Toolbar visible=1,Line Numbers=1,Nav Bar visible=1,Retina=0,Tool Window buttons hidden=1" />
-    <group id="Xcode" priority="0.0" data="Xcode 4.5.2 (4G2008a)=0,Xcode 5.0.2 (5A3005)=0,Xcode 5.1 (5B130a)=0,Xcode 5.1.1 (5B1008)=1" />
+    <group id="UI Features" priority="0.0" data="Status bar visible=1,Tabs Top=1,Recent Files   15=1,Toolbar visible=1,Line Numbers=1,Nav Bar visible=1,Tool Window buttons hidden=1" />
+    <group id="Xcode" priority="0.0" data="Xcode 5.1.1 (5B1008)=1" />
     <group id="features counts" priority="0.0" data="execute.AppleRunConfiguration.Run=597,execute.OCUnitRunConfiguration.Run=23,execute.AppleRunConfiguration.Debug=100,execute.OCUnitRunConfiguration.Debug=6,execute.testingFramework.XCTest=241" />
     <group id="file-type" priority="0.0" data="PLAIN_TEXT=9,Storyboard=10,XIB=20,UNKNOWN=30,JSON=2,ObjectiveC=30,Images=29,plist=30,Strings=19,Asset Catalog Contents=7,XML=2,ARCHIVE=1,HTML=1,JavaScript=2" />
     <group id="javaScript Scope Usages" priority="0.0" data="Project=38" />
     <group id="module type" priority="0.0" data="CIDR_MODULE=34" />
     <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
-    <group id="productivity" priority="0.0" data="codeassists.quickjavadoc=5,navigation.class.hierarchy=4,navigation.popup.file.structure=1,codeassists.altInsert=445,refactoring.convertToMethod=1,editing.completion.smarttype.general=165,navigation.popup.class=3,refactoring.extractMethod=9,codeassists.parameterInfo=1330,refactoring.rename=323,refactoring.introduceVariable=0,codeassists.overrideimplement=264,navigation.goto.declaration=95,codeassists.complete.statement=3,editing.completion.basic=28982,codeassists.quickFix=1140,editing.select.word=5800,codeassists.liveTemplates=99,refactoring.appCodeIntroduceVariable=2,codeassists.quickdefinition=1" />
+    <group id="productivity" priority="0.0" data="codeassists.quickjavadoc=5,navigation.class.hierarchy=4,navigation.popup.file.structure=1,codeassists.altInsert=445,refactoring.convertToMethod=1,editing.completion.smarttype.general=165,navigation.popup.class=3,refactoring.extractMethod=9,codeassists.parameterInfo=1330,refactoring.rename=323,codeassists.overrideimplement=264,navigation.goto.declaration=95,codeassists.complete.statement=3,editing.completion.basic=28982,codeassists.quickFix=1140,editing.select.word=5800,codeassists.liveTemplates=99,refactoring.appCodeIntroduceVariable=2,codeassists.quickdefinition=1" />
     <group id="run-configuration-type" priority="0.0" data="AppleRunConfiguration=18,OCUnitRunConfiguration=2" />
     <group id="run-configuration-type-temp" priority="0.0" data="AppleRunConfiguration=10,OCUnitRunConfiguration=2" />
-    <group id="user.os" priority="0.0" data="Mac OS X 10.9.1=0,Mac OS X=1,Mac OS X 10.9.2=0,Mac OS X 10.9.2=1" />
+    <group id="user.os" priority="0.0" data="Mac OS X=1,Mac OS X 10.9.2=1" />
     <group id="vcs" priority="0.0" data="Git=23" />
   </component>
 </application>
-

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Default (1)">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
@@ -26,9 +25,6 @@
   <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
   <option name="WRAP_COMMENTS" value="true" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -82,4 +78,3 @@
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
 </code_scheme>
-

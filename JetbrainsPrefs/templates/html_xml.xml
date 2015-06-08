@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="html/xml">
   <template name="t" value="&lt;$TAG$&gt;$END$&lt;/$TAG_NAME$&gt;" description="Tag pair" toReformat="true" toShortenFQNames="true">
     <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
@@ -27,4 +26,3 @@
     </context>
   </template>
 </templateSet>
-

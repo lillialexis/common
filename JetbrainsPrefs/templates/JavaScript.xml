@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="JavaScript">
   <template name="test" value="function test$TEST$ ()&#10;{&#10;    var testName = &quot;$TEST_NAME$&quot;;&#10;    UIALogger.logStart(testName);&#10;&#10;    mainWindow.logElementTree();&#10;&#10;    var rootTable = mainWindow.tableViews()[&quot;$END$&quot;];&#10;&#10;    UIALogger.logPass(testName);&#10;}&#10;" description="Test function" toReformat="false" toShortenFQNames="true">
     <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
@@ -12,4 +11,3 @@
     </context>
   </template>
 </templateSet>
-

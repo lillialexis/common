@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CommunityFileTypes" version="8">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
@@ -13,13 +12,12 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;" />
     <extensionMap>
-      <mapping ext="pgcdv" type="PLAIN_TEXT" />
       <mapping ext="bad" type="PLAIN_TEXT" />
       <mapping ext="notworking" type="PLAIN_TEXT" />
+      <mapping ext="pgcdv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
-
