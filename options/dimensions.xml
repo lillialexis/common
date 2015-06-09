@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="434" y="267" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="436" />
+    <location key="OptionsEditor.0.0.1440.900" x="120" y="41" />
+    <location key="OptionsEditor.0.0.2560.1440" x="177" y="53" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1069" y="440" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="353" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="1032" y="370" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="706" />
+    <location key="#xdebugger.evaluate.0.0.2560.1440" x="996" y="448" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" x="100" y="123" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2539" height="401" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2539" height="401" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2539" height="401" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2539" height="401" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2539" height="403" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2539" height="403" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2539" height="403" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2539" height="403" />
+    <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="1280" height="706" />
+    <size key="OptionsEditor.0.0.2560.1440" width="1996" height="1244" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="2360" height="1213" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+  </component>
+</application>

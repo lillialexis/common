@@ -1,0 +1,23 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="0" />
+    <option name="LAST_BUILD_CHECKED" value="" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+</application>

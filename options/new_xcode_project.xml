@@ -1,0 +1,15 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/JLR/AFJSONRPCClient" />
+    <string key="documentExtension" value="mydoc" />
+    <string key="bundleIdentifierPrefix" value="demo.daoofdev" />
+    <boolean key="includeUnitTests" value="false" />
+    <string key="universalDeviceFamily" value="Universal" />
+    <string key="organizationName" value="Dao Of Development" />
+    <boolean key="useARC" value="true" />
+    <boolean key="coreData" value="false" />
+    <boolean key="useStoryboard" value="false" />
+    <string key="languageChoice" value="Objective-C" />
+    <string key="classPrefix" value="LL" />
+  </component>
+</application>

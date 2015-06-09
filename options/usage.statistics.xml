@@ -1,0 +1,24 @@
+<application>
+  <component name="UsagesStatistic" time="1431735378313" allowed="true" show-notification="false" period="weekly">
+    <group id="Build Settings" priority="0.0" data="CLANG_CXX_LANGUAGE_STANDARD gnu++0x=3,GCC_VERSION com.apple.compilers.llvm.clang.1_0=0,GCC_C_LANGUAGE_STANDARD gnu99=3,CLANG_CXX_LIBRARY libc++=3,CLANG_ENABLE_OBJC_ARC YES=3,GCC_VERSION=3" />
+    <group id="Debugger" priority="0.0" data="LLDB=1" />
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=5" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Default=1" />
+    <group id="SDK" priority="0.0" data="iOS 8.3=3" />
+    <group id="UI Features" priority="0.0" data="Retina=1,Status bar visible=1,Tool Window buttons hidden=1,Tabs Top=1,Line Numbers=1,Nav Bar visible=1,Toolbar visible=1,Recent Files (30  50]=1" />
+    <group id="UI File Format" priority="0.0" data="Modern Xib iPhone (3.0)=1,Storyboard iPhone (3.0)=2,Storyboard iPad (2.0)=1,Storyboard iPhone (2.0)=1" />
+    <group id="Xcode" priority="0.0" data="Xcode 6.3.1 (6D1002)=1" />
+    <group id="features counts" priority="0.0" data="ideaapp.started=6,welcome.screen.OpenXcodeProject=1,welcome.screen.WelcomeScreen.Configure=3,welcome.screen.WelcomeScreen.Configure.Import=3,ide.settings.File_and_Code_Templates=4,designer.open.Storyboard-iPhone-v3=3,designer.open.Unknown=1,execute.AppleRunConfiguration.Run=50,execute.AppleRunConfiguration.Debug=15,designer.edit.property.Storyboard-iPhone-v3=2" />
+    <group id="file-type" priority="0.0" data="plist=3,ObjectiveC=3,UNKNOWN=5,Strings=2,PLAIN_TEXT=0,Asset Catalog Contents=2,XIB=1,Storyboard=3,Images=2" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=10" />
+    <group id="module type" priority="0.0" data="CIDR_MODULE=5" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="productivity" priority="0.0" data="codeassists.altInsert=4,navigation.popup.class=1,codeassists.liveTemplates=2,codeassists.overrideimplement=4,editing.completion.basic=178,codeassists.parameterInfo=22,editing.select.word=145,codeassists.quickFix=19,navigation.goto.declaration=4,refactoring.convertToLiteral=11" />
+    <group id="run-configuration-type" priority="0.0" data="AppleRunConfiguration=2" />
+    <group id="run-configuration-type-temp" priority="0.0" data="AppleRunConfiguration=2" />
+    <group id="user.jdk" priority="0.0" data="Apple Inc. 1.6=1" />
+    <group id="user.os.name" priority="0.0" data="Mac OS X=1" />
+    <group id="user.os.version" priority="0.0" data="Mac OS X 10.10.3=1" />
+    <group id="vcs" priority="0.0" data="Git=2" />
+  </component>
+</application>

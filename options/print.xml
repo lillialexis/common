@@ -1,0 +1,7 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="2" />
+    <option name="FONT_NAME" value="Serif" />
+    <option name="FOOTER_HEADER_FONT_NAME" value="Serif" />
+  </component>
+</application>

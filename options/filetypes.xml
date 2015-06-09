@@ -1,0 +1,39 @@
+<application>
+  <component name="CommunityFileTypes" version="8">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+    <extensionMap>
+      <mapping ext="rhtml" type="HTML" />
+      <mapping pattern="Doxyfile" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="chris" type="PLAIN_TEXT" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="pom" type="XML" />
+      <mapping ext="rng" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="utility" type="ObjectiveC" />
+      <mapping pattern="cwctype" type="ObjectiveC" />
+      <mapping pattern="climits" type="ObjectiveC" />
+      <mapping pattern="cstdlib" type="ObjectiveC" />
+      <mapping pattern="cmath" type="ObjectiveC" />
+      <mapping pattern="cstdio" type="ObjectiveC" />
+      <mapping pattern="functional" type="ObjectiveC" />
+      <mapping pattern="complex" type="ObjectiveC" />
+      <mapping pattern="memory" type="ObjectiveC" />
+      <mapping pattern="ctime" type="ObjectiveC" />
+      <mapping pattern="cstdarg" type="ObjectiveC" />
+      <mapping pattern="cwchar" type="ObjectiveC" />
+      <mapping pattern="cctype" type="ObjectiveC" />
+      <mapping pattern="cfloat" type="ObjectiveC" />
+      <mapping pattern="elements" type="PLAIN_TEXT" />
+      <mapping pattern="layout" type="PLAIN_TEXT" />
+      <mapping ext="notworking" type="PLAIN_TEXT" />
+      <mapping ext="pgcdv" type="PLAIN_TEXT" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="2" />
+  </component>
+</application>

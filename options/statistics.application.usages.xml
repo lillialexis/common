@@ -1,0 +1,73 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="HVACDemo" values="DEFAULT" />
+      <project id="BTLE Transfer" values="DEFAULT" />
+      <project id="JSON-RPC" values="DEFAULT" />
+      <project id="objc-JSONRpc" values="DEFAULT" />
+      <project id="CBTutorial" values="DEFAULT" />
+    </group>
+    <group name="module type">
+      <project id="HVACDemo" values="CIDR_MODULE" />
+      <project id="BTLE Transfer" values="CIDR_MODULE" />
+      <project id="JSON-RPC" values="CIDR_MODULE" />
+      <project id="objc-JSONRpc" values="CIDR_MODULE" />
+      <project id="CBTutorial" values="CIDR_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="HVACDemo" values="Git" />
+      <project id="CBTutorial" values="Git" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="HVACDemo" values="AppleRunConfiguration" />
+      <project id="JSON-RPC" values="AppleRunConfiguration" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="BTLE Transfer" values="AppleRunConfiguration" />
+      <project id="CBTutorial" values="AppleRunConfiguration" />
+    </group>
+    <group name="Build Settings">
+      <project id="HVACDemo" values="CLANG_CXX_LANGUAGE_STANDARD gnu++0x,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION " />
+      <project id="BTLE Transfer" values="CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES,GCC_VERSION ,GCC_C_LANGUAGE_STANDARD gnu99,CLANG_CXX_LANGUAGE_STANDARD gnu++0x" />
+      <project id="CBTutorial" values="GCC_C_LANGUAGE_STANDARD gnu99,GCC_VERSION ,CLANG_CXX_LANGUAGE_STANDARD gnu++0x,CLANG_CXX_LIBRARY libc++,CLANG_ENABLE_OBJC_ARC YES" />
+    </group>
+    <group name="UI File Format">
+      <project id="HVACDemo" values="Storyboard iPhone (3.0),Modern Xib iPhone (3.0)" />
+      <project id="BTLE Transfer" values="Storyboard iPhone (2.0),Storyboard iPad (2.0)" />
+      <project id="CBTutorial" values="Storyboard iPhone (3.0)" />
+    </group>
+    <group name="file-type">
+      <project id="HVACDemo" values="Storyboard,XIB,plist,Asset Catalog Contents,ObjectiveC,Images,UNKNOWN" />
+      <project id="BTLE Transfer" values="UNKNOWN,Strings,Images,ObjectiveC,Storyboard,plist" />
+      <project id="JSON-RPC" values="UNKNOWN" />
+      <project id="objc-JSONRpc" values="UNKNOWN" />
+      <project id="CBTutorial" values="Asset Catalog Contents,Strings,UNKNOWN,Storyboard,plist,ObjectiveC" />
+    </group>
+    <group name="SDK">
+      <project id="HVACDemo" values="iOS 8.3" />
+      <project id="BTLE Transfer" values="iOS 8.3" />
+      <project id="CBTutorial" values="iOS 8.3" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="HVACDemo" values="Project,Project" />
+      <project id="BTLE Transfer" values="Project,Project" />
+      <project id="JSON-RPC" values="Project,Project" />
+      <project id="objc-JSONRpc" values="Project,Project" />
+      <project id="CBTutorial" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="designer.edit.property.Storyboard-iPhone-v3" count="2" />
+      <entry feature="designer.open.Storyboard-iPhone-v3" count="5" />
+      <entry feature="designer.open.Unknown" count="1" />
+      <entry feature="execute.AppleRunConfiguration.Debug" count="15" />
+      <entry feature="execute.AppleRunConfiguration.Run" count="59" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ideaapp.started" count="8" />
+      <entry feature="welcome.screen.OpenXcodeProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="3" />
+    </counts>
+  </component>
+</application>
