@@ -1,0 +1,31 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>hvac</find>
+      <find>defrost_front_rcb</find>
+      <find>seat_heat_left_rcb</find>
+      <find>toggleButton</find>
+      <find>subscribers</find>
+      <find>sendRVI</find>
+      <find>onAirflowDirectionChanged</find>
+      <find>carIndicator</find>
+      <find>onSeatHeaterRightChanged</find>
+      <find>onFrontDefrostChanged</find>
+      <find>hvacController.prototype.status</find>
+      <find>hvacController.prototype.status.airflowDirection</find>
+      <find>navigator.vehicle.directionIndicationINST</find>
+      <find>navigator.vehicle.directionIndicationMS</find>
+      <find>directionIndicationMS</find>
+      <find>UB_DirectionIndicationINST</find>
+      <find>catch</find>
+      <find>direc</find>
+      <find>get.&quot;</find>
+      <find>set.&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>get: &quot;, ex</replace>
+      <replace>subscribe: &quot;, ex</replace>
+      <replace>set: &quot;, ex</replace>
+    </replaceStrings>
+  </component>
+</application>

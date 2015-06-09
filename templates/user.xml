@@ -1,0 +1,22 @@
+<templateSet group="user">
+  <template name="pframe" value="DLog(@&quot;(%g, %g), (%g, %g)&quot;, $VIEW$.frame.origin.x, $VIEW$.frame.origin.y, $VIEW$.frame.size.width, $VIEW$.frame.size.height);&#10;$END$" description="Log the frame of a view" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="smartComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="prect" value="DLog(@&quot;(%g, %g), (%g, %g)&quot;, $RECT$.origin.x, $RECT$.origin.y, $RECT$.size.width, $RECT$.size.height);&#10;$END$" description="Log a rect or something" toReformat="false" toShortenFQNames="true">
+    <variable name="RECT" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

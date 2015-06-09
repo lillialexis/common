@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/iPhone" />
+    <string key="documentExtension" value="mydoc" />
+    <string key="bundleIdentifierPrefix" value="demo.daoofdev" />
+    <boolean key="includeUnitTests" value="false" />
+    <string key="universalDeviceFamily" value="Universal" />
+    <string key="organizationName" value="Dao Of Development" />
+    <boolean key="useStoryboard" value="false" />
+    <boolean key="coreData" value="false" />
+    <boolean key="useARC" value="true" />
+    <string key="classPrefix" value="LL" />
+  </component>
+</application>
+

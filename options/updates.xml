@@ -1,0 +1,33 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="AI-1-eap" />
+      <item value="AI-1-milestone" />
+      <item value="AI-1-beta" />
+      <item value="AI-1-release" />
+      <item value="AI-0-beta" />
+    </knownUpdateChannels>
+    <ignoredBuildNumbers>
+      <item value="109.117" />
+      <item value="114.179" />
+      <item value="114.279" />
+      <item value="115.15" />
+      <item value="115.27" />
+      <item value="115.48" />
+      <item value="117.417" />
+      <item value="117.595" />
+      <item value="117.625" />
+      <item value="120.38" />
+      <item value="117.764" />
+      <item value="120.160" />
+      <item value="120.293" />
+      <item value="121.35" />
+      <item value="121.100" />
+      <item value="121.78" />
+      <item value="121.309" />
+    </ignoredBuildNumbers>
+    <option name="LAST_TIME_CHECKED" value="1432060729896" />
+    <option name="LAST_BUILD_CHECKED" value="AI-135.1740770" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="0" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="2" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseBlockExpressions" value="true" />
+    <option name="collapseIvars" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="COLLAPSE_IVARS" value="true" />
+    <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
+    <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
+  </component>
+</application>

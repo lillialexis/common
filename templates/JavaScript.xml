@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="test" value="function test$TEST$ ()&#10;{&#10;    var testName = &quot;$TEST_NAME$&quot;;&#10;    UIALogger.logStart(testName);&#10;&#10;    mainWindow.logElementTree();&#10;&#10;    var rootTable = mainWindow.tableViews()[&quot;$END$&quot;];&#10;&#10;    UIALogger.logPass(testName);&#10;}&#10;" description="Test function" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

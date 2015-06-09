@@ -1,0 +1,42 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="rvi_hvac_mobile" values="NodeJSConfigurationType" collectionTime="1433782269356" />
+    </group>
+    <group name="vcs">
+      <project id="rvi_hvac_mobile" values="Git" collectionTime="1433782269356" />
+      <project id="hvac" values="Git" collectionTime="1433782268942" />
+      <project id="common-app" values="Git" collectionTime="1433782269351" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="rvi_hvac_mobile" values="DEFAULT" collectionTime="1433782269360" />
+      <project id="hvac" values="DEFAULT" collectionTime="1433782269351" />
+      <project id="common-app" values="DEFAULT" collectionTime="1433782269356" />
+    </group>
+    <group name="file-type">
+      <project id="rvi_hvac_mobile" values="Less,JavaScript,CSS,XML,HTML,PLAIN_TEXT,SCSS,UNKNOWN,Images" collectionTime="1433782269359" />
+      <project id="hvac" values="SCSS,Less,JSON,Images,XML,CSS,UNKNOWN,HTML,PLAIN_TEXT,JavaScript" collectionTime="1433782269031" />
+      <project id="common-app" values="XML,Less,PLAIN_TEXT,JavaScript,UNKNOWN,Images,JSON,HTML,CSS,SCSS" collectionTime="1433782269354" />
+    </group>
+    <group name="module type">
+      <project id="rvi_hvac_mobile" values="WEB_MODULE" collectionTime="1433782269356" />
+      <project id="hvac" values="WEB_MODULE" collectionTime="1433782268943" />
+      <project id="common-app" values="WEB_MODULE" collectionTime="1433782269351" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="rvi_hvac_mobile" values="Project,Project" collectionTime="1433782269360" />
+      <project id="hvac" values="Project,Project" collectionTime="1433782269351" />
+      <project id="common-app" values="Project,Project" collectionTime="1433782269356" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.NodeJSConfigurationType.Run" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="4" />
+      <entry feature="ideaapp.started" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateWebProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

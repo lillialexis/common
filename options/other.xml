@@ -1,0 +1,201 @@
+<application>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="VALUE_LOOKUP_DELAY" value="700" />
+    <option name="DEBUGGER_TRANSPORT" value="0" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="DISABLE_JIT" value="false" />
+    <option name="HIDE_DEBUGGER_ON_PROCESS_TERMINATION" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CONSTRUCTORS" value="false" />
+    <option name="SKIP_GETTERS" value="false" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="false" />
+    <option name="WATCH_RETURN_VALUES" value="false" />
+    <option name="AUTO_VARIABLES_MODE" value="false" />
+    <option name="SHOW_LIBRARY_STACKFRAMES" value="true" />
+    <option name="UNMUTE_ON_STOP" value="false" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="android-designer,text-editor" value="text-editor" />
+      </map>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+    <registeredAnts />
+  </component>
+  <component name="OCCodeInsightSettings">
+    <option name="HEADER_IMPORT_STYLE" value="IMPORT" />
+  </component>
+  <component name="OCExternalDocSettings">
+    <option name="browser" value="DASH" />
+  </component>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="0" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="0" />
+    <option name="CART_SORT_COLUMN_ORDER" value="0" />
+    <available>
+      <option name="myProportion" value="152:70:87:87" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/Android/engage.android/SimpleDemo/default.properties" separator="\u002e" />
+  </component>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Android/HVACDemo" />
+        <option value="$USER_HOME$/Android/Temp/rvi_hvac_android" />
+        <option value="$USER_HOME$/Android/HelloWorld" />
+        <option value="$USER_HOME$/Android/Bluetooth/Drawing" />
+        <option value="$USER_HOME$/Downloads/DragNDropList-master" />
+        <option value="$USER_HOME$/Android/DragNDropExample" />
+        <option value="$USER_HOME$/Android/DragAndDropExample" />
+        <option value="$USER_HOME$/Android/TicketTracker" />
+        <option value="$USER_HOME$/Android/Bluetooth/BluetoothSppPro" />
+        <option value="$USER_HOME$/Android/Bluetooth/Fragments" />
+        <option value="$USER_HOME$/Android/BluetoothSppPro" />
+        <option value="$USER_HOME$/Android/BluetoothSppPro-master" />
+        <option value="$USER_HOME$/Android/BluetoothSPPWidget-master" />
+        <option value="$USER_HOME$/Android/bluetooth-spp-terminal" />
+        <option value="$USER_HOME$/Android/bluetooth-spp-terminal/bluetooth-spp-terminal" />
+        <option value="$USER_HOME$/Android/android" />
+        <option value="$USER_HOME$/iPhone/oncam-mobile-development/android" />
+        <option value="$USER_HOME$/Android/RunSomeJava" />
+        <option value="$USER_HOME$/Android/EasterEgg" />
+        <option value="$USER_HOME$/Android/HelloWorld2" />
+        <option value="$USER_HOME$/Downloads/EasterEgg" />
+        <option value="$USER_HOME$/Downloads/ToznyEasterEgg1" />
+        <option value="$USER_HOME$/Downloads/ToznyEasterEgg" />
+        <option value="$USER_HOME$/Downloads/AndroidTabLayout" />
+        <option value="$USER_HOME$/Android/engage.android" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Android/HVACDemo" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Android/HVACDemo" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Build" />
+        <option value="Clean" />
+        <option value="Compiler" />
+        <option value="Gradle Invocation (errors)" />
+        <option value="Gradle Invocation (success)" />
+        <option value="TestRunner" />
+        <option value="Xcode Build Log" />
+      </set>
+    </option>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Singleton" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>

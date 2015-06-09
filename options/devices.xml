@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AMDeviceManager">
+    <option name="devices">
+      <map>
+        <entry key="V5050BFGZ38">
+          <value>
+            <AMDeviceRef>
+              <option name="name" value="iPad" />
+              <option name="productVersion" value="5.1 (9B176)" />
+              <option name="serialNumber" value="V5050BFGZ38" />
+            </AMDeviceRef>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
+

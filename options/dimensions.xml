@@ -1,0 +1,14 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="230" />
+    <location key="SettingsEditor.0.0.2560.1440" x="761" y="393" />
+    <location key="findTextDialog.0.0.2560.1440" x="1074" y="488" />
+    <location key="#hvacController.js.0.0.2560.1440" x="974" y="380" />
+    <location key="DiffContextDialog.0.0.2560.1440" x="100" y="123" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="353" />
+    <location key="VCS.ChangeListViewerDialog.0.0.2560.1440" x="920" y="408" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.2560.1440" x="1016" y="592" />
+    <size key="DiffContextDialog.0.0.2560.1440" width="2360" height="1213" />
+    <extendedState key="DiffContextDialog" state="0" />
+  </component>
+</application>
