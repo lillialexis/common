@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ExportableTemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Objective-C" />
+          <option name="key" value="propr" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
+
