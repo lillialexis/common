@@ -17,6 +17,7 @@
       <w>descr</w>
       <w>deserialize</w>
       <w>deserialized</w>
+      <w>dlink</w>
       <w>doesn</w>
       <w>ellipsize</w>
       <w>endcode</w>
@@ -29,14 +30,17 @@
       <w>gymbo</w>
       <w>highscores</w>
       <w>htmlonly</w>
+      <w>hvac</w>
       <w>ident</w>
       <w>iframe</w>
       <w>imgsrc</w>
       <w>ipad</w>
+      <w>jaguarlandrover</w>
       <w>janrain</w>
       <w>jopel</w>
       <w>jrengage</w>
       <w>logins</w>
+      <w>magnus</w>
       <w>mainpage</w>
       <w>matchers</w>
       <w>maxx</w>
@@ -94,6 +98,7 @@
       <w>teardown</w>
       <w>throughs</w>
       <w>unshortened</w>
+      <w>unsubscribe</w>
       <w>userdata</w>
       <w>usertext</w>
       <w>wconversion</w>

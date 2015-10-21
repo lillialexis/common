@@ -96,7 +96,7 @@
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="724" y="447" />
     <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="613" y="474" />
     <location key="#Code_Folding.0.0.1920.1080" x="819" y="273" />
-    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="436" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="509" y="170" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1440.900" x="430" y="99" />
     <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1440.900" x="0" y="23" />
@@ -125,7 +125,7 @@
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="574" y="358" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="744" y="391" />
     <location key="FileChooserDialogImpl.0.0.2560.1440" x="1061" y="478" />
-    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="300" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="706" />
     <location key="#Project_Structure.0.0.2560.1440" x="756" y="307" />
     <location key="#bluetooth-spp-terminal.0.0.2560.1440" x="1008" y="321" />
     <location key="AndroidExtendedDeviceChooserDialog.0.0.2560.1440" x="973" y="523" />
@@ -146,8 +146,8 @@
     <location key="GitCloneDialog.0.0.1440.900" x="518" y="374" />
     <location key="ProcessPopupWindow.0.0.1440.900" x="1075" y="748" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="353" />
-    <location key="AndroidCreateXmlResourceDialog.0.0.2560.1440" x="868" y="391" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" x="0" y="22" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.2560.1440" x="1102" y="201" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" x="0" y="23" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="466" />
     <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.2560.1440" x="988" y="475" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="1042" y="440" />
@@ -174,6 +174,20 @@
     <location key="chooseDestDirectoryDialog.0.0.2560.1440" x="1059" y="516" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" x="997" y="606" />
     <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="1042" y="357" />
+    <location key="ReplaceDuplicatesPrompt.0.0.2560.1440" x="933" y="655" />
+    <location key="WELCOME_SCREEN.0.0.0.0" x="1280" y="708" />
+    <location key="ScreenshotRecorder.Options.Dimensions.0.0.2560.1440" x="1001" y="637" />
+    <location key="#com.intellij.debugger.actions.ViewTextAction.0.0.2560.1440" x="1118" y="592" />
+    <location key="StructurePopup.0.0.2560.1440" x="1076" y="498" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="889" y="318" />
+    <location key="scopes.0.0.2560.1440" x="1034" y="672" />
+    <location key="#Console_Folding.0.0.2560.1440" x="1009" y="489" />
+    <location key="MultipleFileMergeDialog.0.0.2560.1440" x="972" y="475" />
+    <location key="edit.logcat.filter.dialog.dimensions.0.0.2560.1440" x="863" y="577" />
+    <location key="#NavToReceiver.0.0.2560.1440" x="1008" y="324" />
+    <location key="#ChineseKeyboardDemoApp.0.0.2560.1440" x="1008" y="324" />
+    <location key="findTextDialog.0.0.0.0" x="1200" y="914" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.2560.1440" x="1216" y="517" />
     <size key="GridCell.Tab.0.center.0.22.1280.742" width="1257" height="284" />
     <size key="GridCell.Tab.2.center.0.22.1440.874" width="1417" height="225" />
     <size key="GridCell.Tab.0.bottom" width="1417" height="225" />
@@ -214,7 +228,7 @@
     <size key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.22.1920.1054" width="1426" height="860" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1878" height="350" />
     <size key="GridCell.Tab.2.center.0.22.1920.1054" width="1897" height="284" />
-    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1158" height="223" />
     <size key="GridCell.Tab.1.left.0.22.1440.874" width="1417" height="225" />
     <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" width="1920" height="1054" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1920" height="1054" />
@@ -228,7 +242,7 @@
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="481" />
     <size key="#xdebugger.evaluate.0.22.1920.1054" width="707" height="634" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1920.1054" width="1920" height="1054" />
-    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1158" height="223" />
     <size key="GridCell.Tab.2.bottom" width="1417" height="225" />
     <size key="GridCell.Tab.2.right.0.22.1920.1054" width="1897" height="284" />
     <size key="GridCell.Tab.2.bottom.0.22.1440.874" width="1417" height="225" />
@@ -249,12 +263,12 @@
     <size key="GridCell.Tab.0.right.0.22.1920.1054" width="1897" height="284" />
     <size key="DiffWindow.0.22.1920.1054" width="1720" height="854" />
     <size key="XDebugger.FullValuePopup.0.22.1280.774" width="640" height="387" />
-    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1158" height="223" />
     <size key="NewXcodeProjectWizard" width="600" height="400" />
     <size key="GridCell.Tab.2.left.0.22.1440.874" width="1417" height="225" />
     <size key="refactoring.ChangeSignatureDialog.0.22.1920.1054" width="526" height="723" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1440.874" width="1440" height="874" />
-    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1398" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1158" height="223" />
     <size key="DiffWindow" width="1720" height="854" />
     <size key="GridCell.Tab.0.left.0.22.1920.1054" width="1897" height="284" />
     <size key="GridCell.Tab.0.right.0.22.1440.874" width="1417" height="225" />
@@ -271,10 +285,10 @@
     <size key="GridCell.Tab.0.center.1920.0.1440.900" width="1419" height="225" />
     <size key="GridCell.Tab.0.right.1920.0.1440.900" width="1419" height="225" />
     <size key="GridCell.Tab.0.bottom.1920.0.1440.900" width="1419" height="225" />
-    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1158" height="225" />
-    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1158" height="225" />
-    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1158" height="225" />
-    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1158" height="225" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1398" height="413" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1398" height="413" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1398" height="413" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1398" height="413" />
     <size key="GridCell.Tab.2.left.0.0.1440.900" width="1398" height="277" />
     <size key="GridCell.Tab.2.center.0.0.1440.900" width="1398" height="277" />
     <size key="GridCell.Tab.2.right.0.0.1440.900" width="1398" height="277" />
@@ -290,30 +304,45 @@
     <size key="GridCell.Tab.1.center.1920.519.1440.900" width="1398" height="383" />
     <size key="GridCell.Tab.1.right.1920.519.1440.900" width="1398" height="383" />
     <size key="GridCell.Tab.1.bottom.1920.519.1440.900" width="1398" height="383" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="495" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="0" height="0" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="412" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="412" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="412" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="412" />
     <size key="ProcessPopupWindow.0.0.2560.1440" width="485" height="416" />
-    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="495" />
-    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="495" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="494" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="494" />
     <size key="DiffWindow.0.0.1440.900" width="1240" height="674" />
     <size key="ProcessPopupWindow.0.0.1440.900" width="330" height="104" />
-    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" width="1440" height="874" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1440.900" width="1440" height="873" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="2560" height="1414" />
     <size key="OptionsEditor.0.0.2560.1440" width="1911" height="1266" />
-    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" width="1200" height="873" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" width="2560" height="1413" />
     <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1440.900" width="546" height="252" />
     <size key="DebuggerActiveHint.0.0.1440.900" width="762" height="662" />
     <size key="DiffWindow.0.0.2560.1440" width="2360" height="1213" />
-    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="566" height="252" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="664" height="252" />
     <size key="DebuggerActiveHint.0.0.2560.1440" width="1042" height="625" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.2560.1440" width="663" height="728" />
+    <size key="#com.intellij.debugger.actions.ViewTextAction.0.0.2560.1440" width="987" height="550" />
+    <size key="StructurePopup.0.0.2560.1440" width="426" height="440" />
+    <size key="scopes.0.0.2560.1440" width="657" height="484" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.2560.1440" width="868" height="507" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.2560.1440" width="300" height="300" />
+    <size key="GridCell.Tab.0.left.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.0.center.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.0.right.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.0.bottom.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.1.left.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.1.center.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.1.right.0.0.0.0" width="1158" height="627" />
+    <size key="GridCell.Tab.1.bottom.0.0.0.0" width="1158" height="627" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.2560.1440" width="356" height="424" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
     <extendedState key="DiffWindow" state="0" />
@@ -356,7 +385,7 @@
     <property name="evlsprt3.2" value="15" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="Tests" value="Green" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Android/HVACDemo&#10;/Users/lilli&#10;/Users/lilli/Downloads/DragNDrop&#10;/Users/lilli/Android&#10;/Users/lilli/Downloads/DragNDropList-master&#10;/Users/lilli/Android/Bluetooth/hzjerry_BluetoothSppPro&#10;/Users/lilli/Android/Bluetooth/BluetoothSppPro&#10;/Users/lilli/Downloads/BluetoothSppPro-master&#10;/Users/lilli/Downloads/BluetoothSPPWidget-master&#10;/Users/lilli/Android/bluetooth-spp-terminal&#10;/Users/lilli/iPhone/oncam-mobile-development/android&#10;/Users/lilli/Downloads/ToznyEasterEgg&#10;/Users/lilli/Downloads/AndroidTabLayout&#10;/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home&#10;/Users/lilli/iPhone/three-ring&#10;/Users/lilli/iPhone/circles/Circles&#10;/Users/lilli/iPhone/circles/Circles/Circles" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/AnimationsDemo&#10;/Users/lilli/Android&#10;/Users/lilli/JLR/InControl/mySPIN_Rel_20150731_v1_SDK/mySPIN_Rel_20150731_v1_SDK/20_Android/mySPIN.Android.SDK_release_v1.3.0_1.3.0.86_ce04ac4/samples&#10;/Users/lilli/JLR/InControl/mySPIN_Rel_20150731_v1_SDK/mySPIN_Rel_20150731_v1_SDK/20_Android/mySPIN.Android.SDK_release_v1.3.0_1.3.0.86_ce04ac4/samples/mySPIN.Demo&#10;/Users/lilli/JLR/mySPIN_Rel_20150731_v1_SDK/mySPIN_Rel_20150731_v1_SDK/20_Android/mySPIN.Android.SDK_release_v1.3.0_1.3.0.86_ce04ac4/samples&#10;/Users/lilli/Android/BTLEView&#10;/Users/lilli/Android/rvi_hvac_android&#10;/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk&#10;/Users/lilli/Android/UnlockDemo&#10;/Users/lilli/Downloads/AndroidSocketExample/AndroidSocketCLIENT&#10;/Users/lilli/Downloads/AndroidSocketExample&#10;/Users/lilli/Android/HVACDemo&#10;/Users/lilli&#10;/Users/lilli/Downloads/DragNDrop&#10;/Users/lilli/Downloads/DragNDropList-master&#10;/Users/lilli/Android/Bluetooth/hzjerry_BluetoothSppPro&#10;/Users/lilli/Android/Bluetooth/BluetoothSppPro&#10;/Users/lilli/Downloads/BluetoothSppPro-master&#10;/Users/lilli/Downloads/BluetoothSPPWidget-master&#10;/Users/lilli/Android/bluetooth-spp-terminal&#10;/Users/lilli/iPhone/oncam-mobile-development/android&#10;/Users/lilli/Downloads/ToznyEasterEgg&#10;/Users/lilli/Downloads/AndroidTabLayout&#10;/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home&#10;/Users/lilli/iPhone/three-ring&#10;/Users/lilli/iPhone/circles/Circles&#10;/Users/lilli/iPhone/circles/Circles/Circles" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="NewXcodeProjectBasePath" value="$USER_HOME$/iPhone" />
     <property name="evlsprt2.1" value="1337b055d23" />
@@ -373,7 +402,7 @@
     <property name="evlsprt3.6" value="19" />
     <property name="evlsprt3.5" value="13" />
     <property name="evlsprt2.6" value="130194bdac8" />
-    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="RunConfigurable.dividerProportion" value="0.24164279" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
     <property name="color.picker.is.hsb" value="false" />
@@ -399,8 +428,8 @@
     <property name="MobileminApi" value="15" />
     <property name="TVminApi" value="21" />
     <property name="WearminApi" value="20" />
-    <property name="ANDROID_DEBUG_SELECTED_TAB_AndroidRunConfigurationType" value="Watches" />
-    <property name="last.imported.location" value="$USER_HOME$/Android/HVACDemo" />
+    <property name="ANDROID_DEBUG_SELECTED_TAB_AndroidRunConfigurationType" value="Frames" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/AnimationsDemo" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="project.jdk.splitter" value="0.2" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
@@ -411,8 +440,13 @@
     <property name="AndroidInitConfigurator.V4" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="android.resource_dialog_splitter" value="0.8" />
-    <property name="LOG_FILTER_HISTORY" value="websoc&#10;renderlayer&#10;renderbox&#10;wavespec&#10;util" />
+    <property name="LOG_FILTER_HISTORY" value="Main&#10;haz&#10;RVIP&#10;hvacdemo&#10;websoc" />
     <property name="filter_non_existing" value="false" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="INSPECTION_FILTER_HISTORY" value="lam&#10;&quot;New in 13&quot;" />
+    <property name="ANDROID_DEBUG_SELECTED_TAB_AndroidTestRunConfigurationType" value="Variables" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="PLUGIN_FILTER" value="doc&#10;javadoc" />
   </component>
 </application>
 

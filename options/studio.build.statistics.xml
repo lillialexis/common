@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application />
+<application>
+  <component name="StudioBuildStatistic">
+    <record utc_ms="1444839447978">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1444839457275">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1444839461184">
+      <value key="project-opened" value="gradle" />
+    </record>
+  </component>
+</application>
 

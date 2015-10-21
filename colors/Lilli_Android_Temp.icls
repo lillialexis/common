@@ -14,6 +14,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="CARET_COLOR" value="ffff00" />
     <option name="CARET_ROW_COLOR" value="" />

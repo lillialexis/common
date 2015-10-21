@@ -60,6 +60,64 @@
       <additional jdk="1.8" sdk="android-22" />
     </jdk>
     <jdk version="2">
+      <name value="Android API 17 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_45&quot;" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-17/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/platforms/android-17/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-17" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_45&quot;" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-23/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/platforms/android-23/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/sources/android-23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_45&quot;" />

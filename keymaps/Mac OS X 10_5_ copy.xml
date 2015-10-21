@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="meta alt K" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta F9" />
     <keyboard-shortcut first-keystroke="meta B" />

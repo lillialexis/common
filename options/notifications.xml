@@ -35,6 +35,7 @@
     <toolWindow group="Vcs Messages" />
     <toolWindow group="notification.group.id.gradle" />
     <toolWindow group="Android Session Restarted" />
+    <toolWindow group="Inspection Results" />
   </component>
 </application>
 
