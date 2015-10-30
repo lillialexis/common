@@ -1,0 +1,325 @@
+<templateSet group="Misc. User Defined">
+  <template name="inith" value="- (id)init;&#10;+ (id)$CLASS$;$END$" description="Insert instance and class constructor declarations" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="decapitalize(fileNameWithoutExtension())" defaultValue="decapitalize(fileNameWithoutExtension())" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="iw" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$ &#10;{&#10;    if ($VAR$ == nil)&#10;        return nil;&#10;        &#10;    if ((self = [super init])) &#10;    {&#10;        _$VAR$ = [$VAR$ copy];&#10;        $END$&#10;    }&#10;    &#10;    return self;&#10;}&#10;  &#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$&#10;{&#10;    return [[$OBJECT$ alloc] initWith$VAR_CAP$:$VAR$];&#10;}&#10;" description="Insert instance and class constructor definitions for one arg" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(OBJECT)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="fileNameWithoutExtension()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="hw" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$;&#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$;" description="Insert instance and class constructor declarations for one arg" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(fileNameWithoutExtension())" defaultValue="decapitalize(fileNameWithoutExtension())" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="init" value="- (id)init &#10;{&#10;    if ((self = [super init])) &#10;    {&#10;        $END$&#10;    }&#10;    &#10;    return self;&#10;}&#10;  &#10;+ (id)$OBJECT_LOWER$&#10;{&#10;    return [[$OBJECT$ alloc] init];&#10;}&#10;" description="Insert instance and class constructor definitions" toReformat="false" toShortenFQNames="true">
+    <variable name="OBJECT_LOWER" expression="decapitalize(OBJECT)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="fileNameWithoutExtension()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="iww" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$&#10;{&#10;    if (($VAR$ == nil) || ($VAR_2$ == nil))&#10;        return nil;&#10;        &#10;    if ((self = [super init])) &#10;    {&#10;        _$VAR$ = [$VAR$ copy];&#10;        _$VAR_2$ = [$VAR_2$ copy];&#10;        $END$&#10;    }&#10;    &#10;    return self;&#10;}&#10;  &#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$&#10;{&#10;    return [[$OBJECT$ alloc] initWith$VAR_CAP$:$VAR$ $VAR_2$:$VAR_2$];&#10;}&#10;" description="Insert instance and class constructor definitions for two args" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_2" expression="" defaultValue="&quot;bar&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_2" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(OBJECT)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="fileNameWithoutExtension()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="hww" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$;&#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$;" description="Insert instance and class constructor declarations for two args" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_2" expression="" defaultValue="&quot;bar&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_2" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(fileNameWithoutExtension())" defaultValue="decapitalize(fileNameWithoutExtension())" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="iwww" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$ $VAR_3$:($VAR_TYPE_3$)$VAR_3$&#10;{&#10;    if (($VAR$ == nil) || ($VAR_2$ == nil) || ($VAR_3$ == nil))&#10;        return nil;&#10;        &#10;    if ((self = [super init])) &#10;    {&#10;        _$VAR$ = [$VAR$ copy];&#10;        _$VAR_2$ = [$VAR_2$ copy];&#10;        _$VAR_3$ = [$VAR_3$ copy];&#10;        $END$&#10;    }&#10;    &#10;    return self;&#10;}&#10;  &#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$ $VAR_3$:($VAR_TYPE_3$)$VAR_3$&#10;{&#10;    return [[$OBJECT$ alloc] initWith$VAR_CAP$:$VAR$ $VAR_2$:$VAR_2$ $VAR_3$:$VAR_3$];&#10;}&#10;" description="Insert instance and class constructor definitions for three args" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_2" expression="" defaultValue="&quot;bar&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_2" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR_3" expression="" defaultValue="&quot;baz&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_3" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(OBJECT)" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT" expression="fileNameWithoutExtension()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="hwww" value="- (id)initWith$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$ $VAR_3$:($VAR_TYPE_3$)$VAR_3$;&#10;+ (id)$OBJECT_LOWER$With$VAR_CAP$:($VAR_TYPE$)$VAR$ $VAR_2$:($VAR_TYPE_2$)$VAR_2$ $VAR_3$:($VAR_TYPE_3$)$VAR_3$;" description="Insert instance and class constructor definitions for three args" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR" expression="decapitalize(VAR_CAP)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_2" expression="" defaultValue="&quot;bar&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_2" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="VAR_3" expression="" defaultValue="&quot;baz&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE_3" expression="guessElementType()" defaultValue="guessElementType()" alwaysStopAt="true" />
+    <variable name="OBJECT_LOWER" expression="decapitalize(fileNameWithoutExtension())" defaultValue="decapitalize(fileNameWithoutExtension())" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="npost" value="[[NSNotificationCenter defaultCenter] postNotificationName:$NOTIFICATION_NAME$&#10;                                                    object:self&#10;                                                  userInfo:@{$KEY_ONE$:$OBJ_ONE$$END$}];" description="[[NSNotificationCenter defaultCenter] postNotification..." toReformat="true" toShortenFQNames="true">
+    <variable name="NOTIFICATION_NAME" expression="variableOfType(&quot;NSString *&quot;)" defaultValue="&quot;kNotificationKey&quot;" alwaysStopAt="true" />
+    <variable name="KEY_ONE" expression="variableOfType(&quot;NSString *&quot;)" defaultValue="&quot;key1&quot;" alwaysStopAt="true" />
+    <variable name="OBJ_ONE" expression="variableOfType(&quot;id&quot;)" defaultValue="&quot;obj1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="nsel" value="- (void)$SEL$:(NSNotification*)notification&#10;{&#10;    $VAR_TYPE$ $VAR$ = notification.userInfo[$KEY$];&#10;    $END$&#10;}&#10;" description="- (void)selector:(NSNotification*)notification" toReformat="true" toShortenFQNames="true">
+    <variable name="SEL" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
+    <variable name="VAR_TYPE" expression="variableOfType(&quot;id&quot;)" defaultValue="&quot;id&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
+    <variable name="KEY" expression="variableOfType(&quot;NSString *&quot;)" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="maclog" value="// DLog will output like NSLog only when the DEBUG variable is set&#10;#ifdef DEBUG&#10;#define DLog(fmt, ...) NSLog((@&quot;%s [Line %d] &quot; fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)&#10;#else&#10;#define DLog(...)&#10;#endif&#10;&#10;#define ALog(fmt, ...) NSLog((@&quot;%s [Line %d] &quot; fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)&#10;&#10;// ULog will show the UIAlertView only when the DEBUG variable is set &#10;#ifdef DEBUG&#10;#   define ULog(fmt, ...)  { UIAlertView *alert = [[UIAlertView alloc] initWithTitle:[NSString stringWithFormat:@&quot;%s\n [Line %d] &quot;, __PRETTY_FUNCTION__, __LINE__] message:[NSString stringWithFormat:fmt, ##__VA_ARGS__]  delegate:nil cancelButtonTitle:@&quot;Ok&quot; otherButtonTitles:nil]; [alert show]; }&#10;#else&#10;#   define ULog(...)&#10;#endif" description="Insert the #define macro for DLog and ALog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="dlog" value="DLog(@&quot;$END$&quot;);" description="Insert DLog() line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="str" value="@($SELECTION$)" description="Add stringetize macro" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="anim" value="[UIView animateWithDuration:$DURATION$&#10;                        animations:^{&#10;                               $END$&#10;                        }&#10;                        completion:^(BOOL finished){&#10;                       &#10;                }];&#10;                        " description="Creates an animation block" toReformat="false" toShortenFQNames="true">
+    <variable name="DURATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="false" />
+      <option name="OC_DECLARATION" value="false" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="sing" value="$END$+ (id)shared$VAR_CAP$; &#10;&#10;+ (id)shared$VAR_CAP$&#10;{&#10;    static $CLASS$ *_shared$VAR_CAP$ = nil;&#10;    static dispatch_once_t onceToken;&#10; &#10;    dispatch_once(&amp;onceToken, ^{&#10;        _shared$VAR_CAP$ = [[$CLASS$ alloc] init];        &#10;    });&#10;  &#10;    return _shared$VAR_CAP$;   &#10;} " description="Insert singleton constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_CAP" expression="" defaultValue="&quot;Manager&quot;" alwaysStopAt="true" />
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="objc" value="true" />
+      <option name="OC_DECLARATION" value="true" />
+      <option name="OC_STATEMENT" value="true" />
+      <option name="OC_EXPRESSION" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
