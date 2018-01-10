@@ -1,0 +1,62 @@
+{
+  "url_use_to_import_but_remove_from_this_first":"karabiner://karabiner/assets/complex_modifications/import?url=file%3A%2F%2F%2FUsers%2Flilli%2FDocuments%2FCommonFiles%2Fpersonal_karabiner_rules.json"
+  "title": "Personal rules",
+  "rules": [
+    {
+      "description": "Disable Command+H from hiding applications by sending Option+H",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "h",
+            "modifiers": {
+              "mandatory": [
+                "command"
+              ],
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "h",
+              "modifiers": [
+                "option"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Remap num_lock to Control+Option+Command+C to open Calculator app",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "keypad_num_lock",
+            "modifiers": {
+              "mandatory": [
+                "none"
+              ],
+              "optional": [
+                "none"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "c",
+              "modifiers": [
+                "option",
+                "command",
+                "control"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
